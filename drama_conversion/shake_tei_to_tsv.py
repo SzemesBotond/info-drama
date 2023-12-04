@@ -122,11 +122,11 @@ def write_tsv(file_path, csv_outputs_dir, speaker_speech_actnum_iter):
 
     with open(csv_outputs_dir / out_tsv_filename, 'w', encoding='utf-8', newline='') as fh:
         drama_writer = csv.writer(fh, delimiter='\t')
-        drama_writer.writerow(['speech', 'created_at', 'character', 'act_number'])
-        for timestamp, (speaker, speech, act_num) in enumerate(speaker_speech_actnum_iter,
-                                                               start=timestamp_start):
-            if len(speech.strip()) > 0:  # This excludes empty speeches, e.g.: <gap> tag.
-                drama_writer.writerow([speech, timestamp, speaker, act_num])
+        drama_writer.writerow(['sentence', 'created_at', 'character', 'act_number'])
+        for timestamp, (speaker, sentence, act_num) in enumerate(speaker_speech_actnum_iter,
+                                                                 start=timestamp_start):
+            if len(sentence.strip()) > 0:  # This excludes empty speeches, e.g.: <gap> tag.
+                drama_writer.writerow([sentence, timestamp, speaker, act_num])
         print(f'Created {out_tsv_filename} !')
 
 
