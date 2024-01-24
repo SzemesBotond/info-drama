@@ -7,5 +7,5 @@ Preprocessing:
 
 Calculation:
 1. In _suprise-pairwise-from-embedding.R_ you can find the main calculations for the pairwise comparison of characters based on the maximum cosine similarities of their sentences taking into account the time of the utterence; the weightening procedure; and the network normalization.
-2. 2. In _network-from-embedding.R_ you can find the R codes for visualizing the results from _suprise-pairwise-from-embedding.R_
-   3. 3. In _pairwise_sentences_ you can compere two characters and see their most and less similar sentences.
+2. In _network-from-embedding.R_ you can find the R codes for visualizing the results from _suprise-pairwise-from-embedding.R_
+3. In _pairwise_sentences_ you can compere two characters and see their most and less similar sentences.
