@@ -1,0 +1,51 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Antony_JC;#Brutus_JC;0.0424806737260469;101;It is not for your health thus to commit Your weak condition to the raw cold morning.;Fear him not, Caesar
+#Antony_JC;#Brutus_JC;0.0584411988089553;19;What you have said I will consider;
+#Antony_JC;#Brutus_JC;0.0602144805836673;16;What you would work me to, I have some aim.;"When Caesar says ""Do this,"" it is performed."
+#Antony_JC;#Brutus_JC;0.0718194220247133;111;Would you were not sick!;Fear him not, Caesar
+#Antony_JC;#Brutus_JC;0.0753069940078398;73;But if these -  As I am sure they do - bear fire enough To kindle cowards and to steel with valor The melting spirits of women, then, countrymen, What need we any spur but our own cause To prick us to redress?;Fear him not, Caesar
+#Antony_JC;#Brutus_JC;0.0826191768050062;67;I have been up this hour, awake all night.;Fear him not, Caesar
+#Antony_JC;#Brutus_JC;0.0909987331074068;98;Enjoy the honey-heavy dew of slumber.;Fear him not, Caesar
+#Antony_JC;#Brutus_JC;0.101779518367761;18;For this present, I would not, so with love I might entreat you, Be any further moved.;"When Caesar says ""Do this,"" it is performed."
+#Antony_JC;#Brutus_JC;0.111829143268933;68;Know I these men that come along with you?;Fear him not, Caesar
+#Antony_JC;#Brutus_JC;0.112883254474305;65;O, then, by day Where wilt thou find a cavern dark enough To mask thy monstrous visage?;Fear him not, Caesar
+#Casca_JC;#Brutus_JC;0.0215891176692634;23;Calphurnia's cheek is pale, and Cicero Looks with such ferret and such fiery eyes As we have seen him in the Capitol, Being crossed in conference by some senators.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0254844871580901;8;Into what dangers would you lead me, Cassius, That you would have me seek into myself For that which is not in me?;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0308813045361892;10;I would not, Cassius, yet I love him well.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0505402834505108;15;That you do love me, I am nothing jealous.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0511227729920913;5;Vexéd I am Of late with passions of some difference, Conceptions only proper to myself, Which give some soil, perhaps, to my behaviors.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0655366470735671;4;If I have veiled my look, I turn the trouble of my countenance Merely upon myself.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0723006364778054;6;But let not therefore my good friends be grieved (Among which number, Cassius, be you one) Nor construe any further my neglect Than that poor Brutus, with himself at war, Forgets the shows of love to other men.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.0917448669700619;18;For this present, I would not, so with love I might entreat you, Be any further moved.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.103784795430232;16;What you would work me to, I have some aim.;Bid every noise be still.
+#Casca_JC;#Brutus_JC;0.108155268315048;101;It is not for your health thus to commit Your weak condition to the raw cold morning.;Ay, if I be alive, and your mind hold, and your dinner worth the eating.
+#Portia_JC;#Brutus_JC;0.202107118516972;131;I never thought him worse.;Yes, bring me word, boy, if thy lord look well, For he went sickly forth.
+#Portia_JC;#Brutus_JC;0.231165891126873;140;Or else were this a savage spectacle.;So I did, Fearing to strengthen that impatience Which seemed too much enkindled, and withal Hoping it was but an effect of humor, Which sometime hath his hour with every man.
+#Portia_JC;#Brutus_JC;0.232049128856838;112;Such an exploit have I in hand, Ligarius, Had you a healthful ear to hear of it.;No, my Brutus, You have some sick offense within your mind, Which by the right and virtue of my place I ought to know of.
+#Portia_JC;#Brutus_JC;0.260335207805972;144;It shall advantage more than do us wrong.;Why, know'st thou any harm's intended towards him?
+#Portia_JC;#Brutus_JC;0.261744380882314;149;Then follow me and give me audience, friends.;Come to me again And bring me word what he doth say to thee.
+#Portia_JC;#Brutus_JC;0.282523824130252;125;Grant that, and then is death a benefit.;Brutus hath a suit That Caesar will not grant.
+#Portia_JC;#Brutus_JC;0.297554649244781;110;O, what a time have you chose out, brave Caius, To wear a kerchief!;I should not need, if you were gentle Brutus.
+#Portia_JC;#Brutus_JC;0.308505624269368;113;A piece of work that will make sick men whole.;What, is Brutus sick, And will he steal out of his wholesome bed To dare the vile contagion of the night And tempt the rheumy and unpurgéd air To add unto his sickness?
+#Portia_JC;#Brutus_JC;0.310873679366292;108;Lucius, who 's that knocks?;Brutus is wise and, were he not in health, He would embrace the means to come by it.
+#Portia_JC;#Brutus_JC;0.316396909375736;128;"Then walk we forth, even to the marketplace, And, waving our red weapons o'er our heads, Let's all cry ""Peace, freedom, and liberty!""";I prithee, boy, run to the Senate House.
+#Cassius_JC;#Brutus_JC;0.242857176348163;101;It is not for your health thus to commit Your weak condition to the raw cold morning.;The morning comes upon 's.
+#Cassius_JC;#Brutus_JC;0.247846480351062;3;Let me not hinder, Cassius, your desires.;Fellow, come from the throng.
+#Cassius_JC;#Brutus_JC;0.249025864350715;2;I do lack some part Of that quick spirit that is in Antony.;Fellow, come from the throng.
+#Cassius_JC;#Brutus_JC;0.260415852298712;60;Go to the gate;
+#Cassius_JC;#Brutus_JC;0.267572777108577;55;Such instigations have been often dropped Where I have took them up.;Those that with haste will make a mighty fire Begin it with weak straws.
+#Cassius_JC;#Brutus_JC;0.272978997056202;70;Give me your hands all over, one by one.;You bear too stubborn and too strange a hand Over your friend that loves you.
+#Cassius_JC;#Brutus_JC;0.276324528558467;98;Enjoy the honey-heavy dew of slumber.;The morning comes upon 's.
+#Cassius_JC;#Brutus_JC;0.281628745759799;118;Press near and second him.;As they pass by, pluck Casca by the sleeve, And he will, after his sour fashion, tell you What hath proceeded worthy note today.
+#Cassius_JC;#Brutus_JC;0.29328415168612;131;I never thought him worse.;I did hear him groan.
+#Cassius_JC;#Brutus_JC;0.294473748953429;125;Grant that, and then is death a benefit.;Yet I see Thy honorable mettle may be wrought From that it is disposed.
+#Caesar_JC;#Brutus_JC;0.115595219094859;101;It is not for your health thus to commit Your weak condition to the raw cold morning.;Let me have men about me that are fat, Sleek-headed men, and such as sleep a-nights.
+#Caesar_JC;#Brutus_JC;0.190387034352279;111;Would you were not sick!;Let me have men about me that are fat, Sleek-headed men, and such as sleep a-nights.
+#Caesar_JC;#Brutus_JC;0.201063511212562;55;Such instigations have been often dropped Where I have took them up.;I rather tell thee what is to be feared Than what I fear
+#Caesar_JC;#Brutus_JC;0.205026372466853;98;Enjoy the honey-heavy dew of slumber.;Let me have men about me that are fat, Sleek-headed men, and such as sleep a-nights.
+#Caesar_JC;#Brutus_JC;0.210419918238748;103;Good Portia, go to bed.;Caesar is turned to hear.
+#Caesar_JC;#Brutus_JC;0.215444178197486;140;Or else were this a savage spectacle.;The things that threatened me Ne'er looked but on my back.
+#Caesar_JC;#Brutus_JC;0.216230421598511;60;Go to the gate;
+#Caesar_JC;#Brutus_JC;0.221211751669183;91;By the eighth hour, is that the uttermost?;What sayst thou to me now?
+#Caesar_JC;#Brutus_JC;0.230073404392948;53;Look in the calendar, and bring me word.;"I hear a tongue shriller than all the music Cry ""Caesar."" Speak."
+#Caesar_JC;#Brutus_JC;0.230566191218577;62;Between the acting of a dreadful thing And the first motion, all the interim is Like a phantasma or a hideous dream.;He loves no plays, As thou dost, Antony

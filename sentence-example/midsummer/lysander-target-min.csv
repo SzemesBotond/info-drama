@@ -1,0 +1,51 @@
+"source,""target"",""similarity"",""setnence_num_target"",""target_sent"",""source_sent""";
+"#Demetrius_MND,""#Lysander_MND"",0.15802693113227,7,""How chance the roses there do fade so fast?"",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.163921490546169,10,""Or else misgraffed in respect of years -"",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.182727873404738,6,""Why is your cheek so pale?"",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.186459802097571,38,""Things growing are not ripe until their season";" So I, being young, till now ripe not to reason."",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right."""
+"#Demetrius_MND,""#Lysander_MND"",0.208595961726366,9,""But either it was different in blood -"",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.232022532329792,13,""So quick bright things come to confusion."",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.245529870655028,4,""Why should not I then prosecute my right?"",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.258530055807788,8,""For aught that I could ever read, Could ever hear by tale or history, The course of true love never did run smooth."",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.277502955591652,11,""Or else it stood upon the choice of friends -"",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Demetrius_MND,""#Lysander_MND"",0.282144885628247,18,""Helen, to you our minds we will unfold."",""Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.""";
+"#Bottom_MND,""#Lysander_MND"",0.175416831498416,38,""Things growing are not ripe until their season";" So I, being young, till now ripe not to reason."",""I will discharge it in either your straw-color beard, your orange-tawny beard, your purple-in-grain beard, or your French-crown-color beard, your perfit yellow."""
+"#Bottom_MND,""#Lysander_MND"",0.235819280643763,76,""He goes before me and still dares me on."",""But I will aggravate my voice so that I will roar you as gently as any sucking dove.""";
+"#Bottom_MND,""#Lysander_MND"",0.241150797730903,83,""Our intent Was to be gone from Athens, where we might, Without the peril of the Athenian law -"",""Write me a prologue, and let the prologue seem to say we will do no harm with our swords and that Pyramus is not killed indeed.""";
+"#Bottom_MND,""#Lysander_MND"",0.263198790681182,77,""When I come where he calls, then he is gone."",""Why do they run away?""";
+"#Bottom_MND,""#Lysander_MND"",0.265817573068235,49,""Be not so, For you love Hermia";" this you know I know."",""No, I am no such thing."""
+"#Bottom_MND,""#Lysander_MND"",0.268919075754153,52,""Helen, it is not so."",""a lion among ladies is a most dreadful thing.""";
+"#Bottom_MND,""#Lysander_MND"",0.276558044990397,78,""The villain is much lighter-heeled than I. I followed fast, but faster he did fly, That fallen am I in dark uneven way, And here will rest me."",""- Yet my chief humor is for a tyrant.""";
+"#Bottom_MND,""#Lysander_MND"",0.277191677374867,65,""Should I hurt her, strike her, kill her dead?"",""Methinks, mistress, you should have little reason for that.""";
+"#Bottom_MND,""#Lysander_MND"",0.283221706716654,28,""Then by your side no bed-room me deny, For lying so, Hermia, I do not lie."",""Well, I will undertake it.""";
+"#Bottom_MND,""#Lysander_MND"",0.288164446539806,72,""Now she holds me not."",""I grant you, friends, if you should fright the ladies out of their wits, they would have no more discretion but to hang us.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.231099884038498,38,""Things growing are not ripe until their season";" So I, being young, till now ripe not to reason."",""Through the forest have I gone, But Athenian found I none On whose eyes I might approve This flower's force in stirring love."""
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.249710958658981,76,""He goes before me and still dares me on."",""When I did him at this advantage take, An ass's noll I fixed on his head.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.263968943474429,49,""Be not so, For you love Hermia";" this you know I know."",""Through the forest have I gone, But Athenian found I none On whose eyes I might approve This flower's force in stirring love."""
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.275102657038841,90,""Less than an ace, man, for he is dead, he is nothing."",""He ""Murder"" cries and help from Athens calls.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.280400112854948,59,""By my life, I do."",""Your servant shall do so.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.28289921950983,28,""Then by your side no bed-room me deny, For lying so, Hermia, I do not lie."",""I am that merry wanderer of the night.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.29028115586284,68,""Therefore be out of hope, of question, of doubt."",""Lord, what fools these mortals be!""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.293348808025627,77,""When I come where he calls, then he is gone."",""He ""Murder"" cries and help from Athens calls.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.294335660312602,47,""I had no judgment when to her I swore."",""Pretty soul, she durst not lie Near this lack-love, this kill-courtesy.""";
+"#RobinGoodfellow_MND,""#Lysander_MND"",0.297075236669858,81,""But as yet, I swear, I cannot truly say how I came here."",""Follow me, then, to plainer ground.""";
+"#Helena_MND,""#Lysander_MND"",0.287130217089252,90,""Less than an ace, man, for he is dead, he is nothing."",""I see no blood, no wound.""";
+"#Helena_MND,""#Lysander_MND"",0.304079065532717,59,""By my life, I do."",""Then, how can it be said I am alone When all the world is here to look on me?""";
+"#Helena_MND,""#Lysander_MND"",0.308416108799129,68,""Therefore be out of hope, of question, of doubt."",""And therefore is Love said to be a child Because in choice he is so oft beguiled.""";
+"#Helena_MND,""#Lysander_MND"",0.311509792771234,22,""And, to speak troth, I have forgot our way."",""We should be wooed and were not made to woo.""";
+"#Helena_MND,""#Lysander_MND"",0.315104637073898,53,""Why should he stay whom love doth press to go?"",""Stay, though thou kill me, sweet Demetrius.""";
+"#Helena_MND,""#Lysander_MND"",0.317865580473119,81,""But as yet, I swear, I cannot truly say how I came here."",""Wherefore was I to this keen mockery born?""";
+"#Helena_MND,""#Lysander_MND"",0.322405371539966,34,""No, I do repent The tedious minutes I with her have spent."",""If so, my eyes are oftener washed than hers.""";
+"#Helena_MND,""#Lysander_MND"",0.324902360790843,18,""Helen, to you our minds we will unfold."",""O, that my prayers could such affection move!""";
+"#Helena_MND,""#Lysander_MND"",0.328010239302432,19,""Tomorrow night when Phoebe doth behold Her silver visage in the wat'ry glass, Decking with liquid pearl the bladed grass (A time that lovers' flights doth still conceal), Through Athens' gates have we devised to steal."",""Yours would I catch, fair Hermia, ere I go.""";
+"#Helena_MND,""#Lysander_MND"",0.328055827272985,52,""Helen, it is not so."",""You both are rivals and love Hermia, And now both rivals to mock Helena.""";
+"#Hermia_MND,""#Lysander_MND"",0.22617574724937,9,""But either it was different in blood -"",""I know not by what power I am made bold, Nor how it may concern my modesty In such a presence here to plead my thoughts";" But I beseech your Grace that I may know The worst that may befall me in this case If I refuse to wed Demetrius."""
+"#Hermia_MND,""#Lysander_MND"",0.25076861423501,38,""Things growing are not ripe until their season";" So I, being young, till now ripe not to reason."",""We must starve our sight From lovers' food till morrow deep midnight."""
+"#Hermia_MND,""#Lysander_MND"",0.260012164166534,6,""Why is your cheek so pale?"",""I would my father looked but with my eyes.""";
+"#Hermia_MND,""#Lysander_MND"",0.271400739178346,53,""Why should he stay whom love doth press to go?"",""The more I hate, the more he follows me.""";
+"#Hermia_MND,""#Lysander_MND"",0.287859502562487,46,""How can these things in me seem scorn to you, Bearing the badge of faith to prove them true?"",""Then let us teach our trial patience Because it is a customary cross, As due to love as thoughts and dreams and sighs, Wishes and tears, poor fancy's followers.""";
+"#Hermia_MND,""#Lysander_MND"",0.293914798849278,7,""How chance the roses there do fade so fast?"",""I know not by what power I am made bold, Nor how it may concern my modesty In such a presence here to plead my thoughts";" But I beseech your Grace that I may know The worst that may befall me in this case If I refuse to wed Demetrius."""
+"#Hermia_MND,""#Lysander_MND"",0.302060281696487,52,""Helen, it is not so."",""I know not by what power I am made bold, Nor how it may concern my modesty In such a presence here to plead my thoughts";" But I beseech your Grace that I may know The worst that may befall me in this case If I refuse to wed Demetrius."""
+"#Hermia_MND,""#Lysander_MND"",0.30377884733526,71,""Get you gone, you dwarf, You minimus of hind'ring knotgrass made, You bead, you acorn -"",""Thou art not by mine eye, Lysander, found";" Mine ear, I thank it, brought me to thy sound."""
+"#Hermia_MND,""#Lysander_MND"",0.312207717288265,11,""Or else it stood upon the choice of friends -"",""I know not by what power I am made bold, Nor how it may concern my modesty In such a presence here to plead my thoughts";" But I beseech your Grace that I may know The worst that may befall me in this case If I refuse to wed Demetrius."""
+"#Hermia_MND,""#Lysander_MND"",0.313233054590771,68,""Therefore be out of hope, of question, of doubt."",""Pray thou for us, And good luck grant thee thy Demetrius.""";

@@ -1,0 +1,71 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#LadyCapulet_Rom;#Juliet_Rom;0.598659018359615;97;I' faith, I am sorry that thou art not well.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Juliet_Rom;0.598827437907685;61;If that thy bent of love be honorable, Thy purpose marriage, send me word tomorrow, By one that I'll procure to come to thee, Where and what time thou wilt perform the rite, And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Juliet_Rom;0.601904484654312;213;Hast thou not a word of joy?;Well, well, thou hast a careful father, child, One who, to put thee from thy heaviness, Hath sorted out a sudden day of joy That thou expects not, nor I looked not for.
+#LadyCapulet_Rom;#Juliet_Rom;0.607878945108042;147;My husband lives, that Tybalt would have slain, And Tybalt's dead, that would have slain my husband.;Tybalt, my cousin, O my brother's child!
+#LadyCapulet_Rom;#Juliet_Rom;0.616150159134356;151;"But with a rearward following Tybalt's death, ""Romeo is banished."" To speak that word Is father, mother, Tybalt, Romeo, Juliet, All slain, all dead.";Romeo slew Tybalt
+#LadyCapulet_Rom;#Juliet_Rom;0.626075692400324;200;Now, by Saint Peter's Church, and Peter too, He shall not make me there a joyful bride!;Marry, my child, early next Thursday morn The gallant, young, and noble gentleman, The County Paris, at Saint Peter's Church Shall happily make thee there a joyful bride.
+#LadyCapulet_Rom;#Juliet_Rom;0.699475992083285;1;And stint thou, too, I pray thee, nurse, say I.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Juliet_Rom;0.703576975162199;126;Is Romeo slaughtered and is Tybalt dead?;Romeo slew Tybalt
+#LadyCapulet_Rom;#Juliet_Rom;0.727599412032753;89;Nay, come, I pray thee, speak.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Juliet_Rom;0.831162468805152;190;Feeling so the loss, I cannot choose but ever weep the friend.;So shall you feel the loss, but not the friend Which you weep for.
+#Capulet_Rom;#Juliet_Rom;0.561305499229463;186;Is she not down so late or up so early?;She'll not come down tonight.
+#Capulet_Rom;#Juliet_Rom;0.574186482199441;28;Art thou not Romeo, and a Montague?;But Montague is bound as well as I, In penalty alike, and 'tis not hard, I think, For men so old as we to keep the peace.
+#Capulet_Rom;#Juliet_Rom;0.577527219467845;161;It is not yet near day.;""" on Wednesday next ""  But soft, what day is this?"
+#Capulet_Rom;#Juliet_Rom;0.577875882796867;40;Or, if thou thinkest I am too quickly won, I'll frown and be perverse and say thee nay, So thou wilt woo, but else not for the world.;It is my will, the which if thou respect, Show a fair presence and put off these frowns, An ill-beseeming semblance for a feast.
+#Capulet_Rom;#Juliet_Rom;0.579714617149141;64;"""  To cease thy strife and leave me to my grief.";It is my will, the which if thou respect, Show a fair presence and put off these frowns, An ill-beseeming semblance for a feast.
+#Capulet_Rom;#Juliet_Rom;0.585767395257407;11;What's he that follows here, that would not dance?;"""  Ah, my mistresses, which of you all Will now deny to dance?"
+#Capulet_Rom;#Juliet_Rom;0.596588980683433;20;Thou art thyself, though not a Montague.;Old Montague is come And flourishes his blade in spite of me.
+#Capulet_Rom;#Juliet_Rom;0.598423874890795;62;""" But if thou meanest not well, I do beseech thee """;It is my will, the which if thou respect, Show a fair presence and put off these frowns, An ill-beseeming semblance for a feast.
+#Capulet_Rom;#Juliet_Rom;0.606410981656279;41;In truth, fair Montague, I am too fond, And therefore thou mayst think my havior light.;Old Montague is come And flourishes his blade in spite of me.
+#Capulet_Rom;#Juliet_Rom;0.649014329375082;265;O comfortable friar, where is my lord?;"""  Now, afore God, this reverend holy friar, All our whole city is much bound to him."
+#Romeo_Rom;#Juliet_Rom;0.638376463827362;195;"Indeed, I never shall be satisfied With Romeo till I behold him "" dead ""  Is my poor heart, so for a kinsman vexed.";Henceforth I never will be Romeo.
+#Romeo_Rom;#Juliet_Rom;0.651774398816923;176;O, by this count I shall be much in years Ere I again behold my Romeo.;Henceforth I never will be Romeo.
+#Romeo_Rom;#Juliet_Rom;0.660217941014744;98;Sweet, sweet, sweet nurse, tell me, what says my love?;What sayst thou, my dear nurse?
+#Romeo_Rom;#Juliet_Rom;0.663495286006986;265;O comfortable friar, where is my lord?;Hast thou no letters to me from the Friar?
+#Romeo_Rom;#Juliet_Rom;0.696573932205787;13;My only love sprung from my only hate!;Here's much to do with hate, but more with love.
+#Romeo_Rom;#Juliet_Rom;0.698164997524132;85;"Now, good sweet nurse "" O Lord, why lookest thou sad?";What sayst thou, my dear nurse?
+#Romeo_Rom;#Juliet_Rom;0.710391728028097;46;Do not swear at all.;What shall I swear by?
+#Romeo_Rom;#Juliet_Rom;0.716541365952297;89;Nay, come, I pray thee, speak.;I pray thee, chide me not.
+#Romeo_Rom;#Juliet_Rom;0.733762950797053;5;Good pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this;
+#Romeo_Rom;#Juliet_Rom;0.753162828558175;8;Then have my lips the sin that they have took.;Thus from my lips, by thine, my sin is purged.
+#Benvolio_Rom;#Juliet_Rom;0.618858647857775;61;If that thy bent of love be honorable, Thy purpose marriage, send me word tomorrow, By one that I'll procure to come to thee, Where and what time thou wilt perform the rite, And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.;For what, I pray thee?
+#Benvolio_Rom;#Juliet_Rom;0.628812120356121;149;"I would forget it fain, But, O, it presses to my memory Like damned guilty deeds to sinners' minds: ""Tybalt is dead and Romeo banished."" That ""banished,"" that one word ""banished,"" Hath slain ten thousand Tybalts.";"Tybalt, here slain, whom Romeo's hand did slay ""  Romeo, that spoke him fair, bid him bethink How nice the quarrel was, and urged withal Your high displeasure."
+#Benvolio_Rom;#Juliet_Rom;0.629885675641392;25;Romeo, doff thy name, And, for thy name, which is no part of thee, Take all myself.;Why Romeo, art thou mad?
+#Benvolio_Rom;#Juliet_Rom;0.638824032652371;195;"Indeed, I never shall be satisfied With Romeo till I behold him "" dead ""  Is my poor heart, so for a kinsman vexed.";O Romeo, Romeo, brave Mercutio is dead.
+#Benvolio_Rom;#Juliet_Rom;0.651431836135899;129;O God, did Romeo's hand shed Tybalt's blood?;"Tybalt, here slain, whom Romeo's hand did slay ""  Romeo, that spoke him fair, bid him bethink How nice the quarrel was, and urged withal Your high displeasure."
+#Benvolio_Rom;#Juliet_Rom;0.659080592909385;126;Is Romeo slaughtered and is Tybalt dead?;O Romeo, Romeo, brave Mercutio is dead.
+#Benvolio_Rom;#Juliet_Rom;0.708235500927853;1;And stint thou, too, I pray thee, nurse, say I.;For what, I pray thee?
+#Benvolio_Rom;#Juliet_Rom;0.713004534013724;89;Nay, come, I pray thee, speak.;For what, I pray thee?
+#Benvolio_Rom;#Juliet_Rom;0.758989431575356;28;Art thou not Romeo, and a Montague?;Why Romeo, art thou mad?
+#Benvolio_Rom;#Juliet_Rom;0.783299505909461;17;O Romeo, Romeo, wherefore art thou Romeo?;Why Romeo, art thou mad?
+#Mercutio_Rom;#Juliet_Rom;0.576768996935972;215;Well, thou hast comforted me marvelous much.;Thou hast most kindly hit it.
+#Mercutio_Rom;#Juliet_Rom;0.578538716852698;31;If they do see thee, they will murder thee.;Appear thou in the likeness of a sigh.
+#Mercutio_Rom;#Juliet_Rom;0.579430688663708;39;O gentle Romeo, If thou dost love, pronounce it faithfully.;Nay, gentle Romeo, we must have you dance.
+#Mercutio_Rom;#Juliet_Rom;0.590662347535859;196;Madam, if you could find out but a man To bear a poison, I would temper it, That Romeo should, upon receipt thereof, Soon sleep in quiet.;Where the devil should this Romeo be?
+#Mercutio_Rom;#Juliet_Rom;0.597311982552333;17;O Romeo, Romeo, wherefore art thou Romeo?;"""  O Romeo, that she were, O, that she were An open-arse, thou a pop'rin pear."
+#Mercutio_Rom;#Juliet_Rom;0.608988073913672;90;How art thou out of breath, when thou hast breath To say to me that thou art out of breath?;Appear thou in the likeness of a sigh.
+#Mercutio_Rom;#Juliet_Rom;0.617254631252776;62;""" But if thou meanest not well, I do beseech thee """;Appear thou in the likeness of a sigh.
+#Mercutio_Rom;#Juliet_Rom;0.622570873716332;107;Lovers can see to do their amorous rites By their own beauties, or, if love be blind, It best agrees with night.;If love be blind, love cannot hit the mark.
+#Mercutio_Rom;#Juliet_Rom;0.626024421327503;126;Is Romeo slaughtered and is Tybalt dead?;And is he a man to encounter Tybalt?
+#Mercutio_Rom;#Juliet_Rom;0.630405793524015;195;"Indeed, I never shall be satisfied With Romeo till I behold him "" dead ""  Is my poor heart, so for a kinsman vexed.";Alas, poor Romeo, he is already dead, stabbed with a white wench's black eye, run through the ear with a love-song, the very pin of his heart cleft with the blind bow-boy's butt shaft.
+#Nurse_Rom;#Juliet_Rom;0.630986774537459;176;O, by this count I shall be much in years Ere I again behold my Romeo.;Hark you, your Romeo will be here at night.
+#Nurse_Rom;#Juliet_Rom;0.637460230845968;149;"I would forget it fain, But, O, it presses to my memory Like damned guilty deeds to sinners' minds: ""Tybalt is dead and Romeo banished."" That ""banished,"" that one word ""banished,"" Hath slain ten thousand Tybalts.";Tybalt is gone and Romeo banished.
+#Nurse_Rom;#Juliet_Rom;0.653776796005218;261;How if, when I am laid into the tomb, I wake before the time that Romeo Come to redeem me?;Hark you, your Romeo will be here at night.
+#Nurse_Rom;#Juliet_Rom;0.692044451751102;196;Madam, if you could find out but a man To bear a poison, I would temper it, That Romeo should, upon receipt thereof, Soon sleep in quiet.;I'll find Romeo To comfort you.
+#Nurse_Rom;#Juliet_Rom;0.699815268863236;195;"Indeed, I never shall be satisfied With Romeo till I behold him "" dead ""  Is my poor heart, so for a kinsman vexed.";I'll find Romeo To comfort you.
+#Nurse_Rom;#Juliet_Rom;0.746278127772469;151;"But with a rearward following Tybalt's death, ""Romeo is banished."" To speak that word Is father, mother, Tybalt, Romeo, Juliet, All slain, all dead.";Tybalt is gone and Romeo banished.
+#Nurse_Rom;#Juliet_Rom;0.761564017119757;28;Art thou not Romeo, and a Montague?;His name is Romeo, and a Montague, The only son of your great enemy.
+#Nurse_Rom;#Juliet_Rom;0.773951239438373;152;"""Romeo is banished."" There is no end, no limit, measure, bound, In that word's death.";"Romeo that killed him "" he is banished."
+#Nurse_Rom;#Juliet_Rom;0.799353446459473;99;"How oddly thou repliest: ""Your love says, like an honest gentleman, Where is your mother?""";"Your love says, like an honest gentleman, and a courteous, and a kind, and a handsome, and, I warrant, a virtuous "" Where is your mother?"
+#Nurse_Rom;#Juliet_Rom;0.812728281087644;265;O comfortable friar, where is my lord?;O holy friar, O, tell me, holy friar, Where's my lady's lord?
+#FriarLawrence_Rom;#Juliet_Rom;0.58759465764745;114;O, here comes my nurse, And she brings news, and every tongue that speaks But Romeo's name speaks heavenly eloquence.;Romeo shall thank thee, daughter, for us both.
+#FriarLawrence_Rom;#Juliet_Rom;0.597811684162314;176;O, by this count I shall be much in years Ere I again behold my Romeo.;Romeo shall thank thee, daughter, for us both.
+#FriarLawrence_Rom;#Juliet_Rom;0.602898258097773;214;Speak'st thou from thy heart?;Go, get thee to thy love, as was decreed.
+#FriarLawrence_Rom;#Juliet_Rom;0.604968222802604;195;"Indeed, I never shall be satisfied With Romeo till I behold him "" dead ""  Is my poor heart, so for a kinsman vexed.";Romeo shall thank thee, daughter, for us both.
+#FriarLawrence_Rom;#Juliet_Rom;0.609320047347302;156;Mine shall be spent, When theirs are dry, for Romeo's banishment.;Romeo shall thank thee, daughter, for us both.
+#FriarLawrence_Rom;#Juliet_Rom;0.610973673939853;261;How if, when I am laid into the tomb, I wake before the time that Romeo Come to redeem me?;In the meantime, against thou shalt awake, Shall Romeo by my letters know our drift, And hither shall he come, and he and I Will watch thy waking, and that very night Shall Romeo bear thee hence to Mantua.
+#FriarLawrence_Rom;#Juliet_Rom;0.617825573753059;267;Go, get thee hence, for I will not away.;Go, get thee to thy love, as was decreed.
+#FriarLawrence_Rom;#Juliet_Rom;0.620318669056569;234;God joined my heart and Romeo's, thou our hands;
+#FriarLawrence_Rom;#Juliet_Rom;0.629921383886802;248;But, gentle nurse, I pray thee leave me to myself tonight, For I have need of many orisons To move the heavens to smile upon my state, Which, well thou knowest, is cross and full of sin.;Tomorrow night look that thou lie alone
+#FriarLawrence_Rom;#Juliet_Rom;0.651049141171997;265;O comfortable friar, where is my lord?;I'll send a friar with speed To Mantua with my letters to thy lord.
