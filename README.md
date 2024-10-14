@@ -14,3 +14,6 @@ The first step involves data filtering (retaining sentences with more than 4 wor
 Examples:
 
 In folder "sentence-example" you can find examples of the results of some plays. You can find here the most and least similar sentences in the pairwise comparisoins. In the subfolder "model-compare" you can find preselected sentences ("sentences-to-compare.txt") and their similarities based on different models (in the .csv files)
+
+
+Many thanks for Benjamin Schmidt and Malte Vogel in reviewing the R codes under the Community Code Review project (https://dhcodereview.github.io/)
