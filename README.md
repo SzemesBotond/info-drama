@@ -6,6 +6,7 @@ Preprocessing:
 2. In folder _embedding_test_ you can find the way to calculate embeddings of the sentences created at _drama_conversion_ with any HuggingFace model using HuggingFaceEmbeddings and Sentence-Transformers.
 
 Calculation:
-1. In _suprise-pairwise-from-embedding.R_ you can find the main calculations for the pairwise comparison of characters based on the maximum cosine similarities of their sentences taking into account the time of the utterence; the weightening procedure; and the network normalization.
-2. In _network-from-embedding.R_ you can find the R codes for visualizing the results from _suprise-pairwise-from-embedding.R_
-3. In _pairwise_sentences_ you can compere two characters and see their most and less similar sentences.
+Perform the comparison on the pre-processed data using "max-sim-from-embedding.R" The steps described in our article "Innovation and Repetition in Dramatic Texts" (doi: 10.26083/tuprints-00027395) are followed, see Method section. 
+
+The first step involves data filtering (retaining sentences with more than 4 words and characters with an exact number of utterances). The second step computes the average Maximum Cosine Similarity (MCS) score for a play and its acts. Step 3 is the main calculation by comparing the characters' sentences pairwise. Step 4 is the network normalization of the results. The final tibble named "pairwise_norm_diff" can be used as input to the network visualization using "networfk-from-embedding.R".
+
