@@ -11,3 +11,6 @@ Perform the comparison on the pre-processed data (see "hamlet-name_all-MiniLM-L6
 
 The first step involves data filtering (retaining sentences with more than 4 words and characters with an exact number of utterances). The second step computes the average Maximum Cosine Similarity (MCS) score for a play and its acts. Step 3 is the main calculation by comparing the characters' sentences pairwise (and by normalizing the results based on the acts in which the sentences are uttered). Step 4 is the network normalization of the results. The final tibble named "pairwise_norm_diff" can be used as input to the network visualization using "networfk-from-embedding.R".
 
+Examples:
+
+In folder "sentence-example" you can find examples of the results of some plays. You can find here the most and least similar sentences in the pairwise comparisoins. In the subfolder "model-compare" you can find preselected sentences ("sentences-to-compare.txt") and their similarities based on different models (in the .csv files)
