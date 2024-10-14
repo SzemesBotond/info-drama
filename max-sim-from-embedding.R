@@ -2,7 +2,7 @@ library(dplyr)
 library(readr)
 
 # 1. preprocesing data
-drama_embedding <- read_tsv('C:/Users/DELL/Desktop/munka/drama-infoflow/info-drama/embeddings_tests/embedding_outputs/hamlet-name_all-MiniLM-L6-v2.tsv') %>% 
+drama_embedding <- read_tsv('YOUR_DIR/hamlet-name_all-MiniLM-L6-v2.tsv') %>% 
   rowwise() %>%  
   mutate(embedding_num = embedding %>%  jsonlite::parse_json() %>%  list()) %>% 
   select(-embedding) %>%  ungroup() %>% 
@@ -14,8 +14,6 @@ drama_embedding <- read_tsv('C:/Users/DELL/Desktop/munka/drama-infoflow/info-dra
   filter(n() >= 50) %>% # based on the length of the play
   ungroup() # here possibly filter characters manually, like: filter(character != "#Gravedigger_Ham")
   # or "#DukeFrederick_AYL", "#Oliver_AYL", "#Corin_AYL"
-
-unique(drama_embedding$character)
 
 # 2. Infos about the acts to normalization
 # Calculate cosine similarity between sentences
@@ -90,6 +88,6 @@ pairwise_norm_diff <- pairwise_norm %>%
   select( character.y = character.y, character.x = character.x, norm_score_diff, mean_score_diff) %>% 
   filter(norm_score_diff > 0) 
 # or mean_score_diff > 0 is better, if a characters speaks just 
-# in the beginning, and its sentences are always before than other chars.
+# in the beginning, and its sentences are usually before than other chars.
 # Like Brabantino in Othello
 
