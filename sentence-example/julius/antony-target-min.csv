@@ -1,0 +1,51 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Brutus_JC;#Antony_JC;0.262736257496242;11;I doubt not of your wisdom.;Thy master is a wise and valiant Roman.
+#Brutus_JC;#Antony_JC;0.326075424983695;9;I do beseech you, if you bear me hard, Now, whilst your purpled hands do reek and smoke, Fulfill your pleasure.;Fates, we will know your pleasures.
+#Brutus_JC;#Antony_JC;0.335199612072655;17;My credit now stands on such slippery ground That one of two bad ways you must conceit me, Either a coward or a flatterer.;How I have thought of this, and of these times, I shall recount hereafter.
+#Brutus_JC;#Antony_JC;0.349570341051759;29;I do desire no more.;Let me not hinder, Cassius, your desires.
+#Brutus_JC;#Antony_JC;0.37053535076749;6;Are all thy conquests, glories, triumphs, spoils Shrunk to this little measure?;Thy master is a wise and valiant Roman.
+#Brutus_JC;#Antony_JC;0.388383683873825;37;Passion, I see, is catching, for mine eyes, Seeing those beads of sorrow stand in thine, Began to water.;All my engagements I will construe to thee, All the charactery of my sad brows.
+#Brutus_JC;#Antony_JC;0.388536387386085;22;Here wast thou bayed, brave hart, Here didst thou fall, and here thy hunters stand Signed in thy spoil and crimsoned in thy Lethe.;Swear priests and cowards and men cautelous, Old feeble carrions, and such suffering souls That welcome wrongs
+#Brutus_JC;#Antony_JC;0.40467074154797;40;Hie hence and tell him so.;I know that we shall have him well to friend.
+#Brutus_JC;#Antony_JC;0.410104924767655;20;- in the presence of thy corpse?;O, then, by day Where wilt thou find a cavern dark enough To mask thy monstrous visage?
+#Brutus_JC;#Antony_JC;0.418977678181123;24;How like a deer strucken by many princes Dost thou here lie!;Swear priests and cowards and men cautelous, Old feeble carrions, and such suffering souls That welcome wrongs
+#Cassius_JC;#Antony_JC;0.2675038349932;38;Post back with speed and tell him what hath chanced.;Let us go, For it is after midnight, and ere day We will awake him and be sure of him.
+#Cassius_JC;#Antony_JC;0.276748980662831;17;My credit now stands on such slippery ground That one of two bad ways you must conceit me, Either a coward or a flatterer.;Were I a common laughter, or did use To stale with ordinary oaths my love To every new protester
+#Cassius_JC;#Antony_JC;0.316339829768266;11;I doubt not of your wisdom.;Then must I think you would not have it so.
+#Cassius_JC;#Antony_JC;0.340803607047508;9;I do beseech you, if you bear me hard, Now, whilst your purpled hands do reek and smoke, Fulfill your pleasure.;You gods, it doth amaze me A man of such a feeble temper should So get the start of the majestic world And bear the palm alone.
+#Cassius_JC;#Antony_JC;0.360702366113625;32;Woe to the hand that shed this costly blood!;Rome, thou hast lost the breed of noble bloods!
+#Cassius_JC;#Antony_JC;0.367154045804828;40;Hie hence and tell him so.;Let us go, For it is after midnight, and ere day We will awake him and be sure of him.
+#Cassius_JC;#Antony_JC;0.368503237975058;6;Are all thy conquests, glories, triumphs, spoils Shrunk to this little measure?;Rome, thou hast lost the breed of noble bloods!
+#Cassius_JC;#Antony_JC;0.369415907155701;29;I do desire no more.;I fear our purpose is discovered.
+#Cassius_JC;#Antony_JC;0.372779615213854;28;That's all I seek;
+#Cassius_JC;#Antony_JC;0.374195977581948;20;- in the presence of thy corpse?;But, O grief, Where hast thou led me?
+#Caesar_JC;#Antony_JC;0.239520268807976;38;Post back with speed and tell him what hath chanced.;Let me see his face.
+#Caesar_JC;#Antony_JC;0.301918630523963;11;I doubt not of your wisdom.;I thank you for your pains and courtesy.
+#Caesar_JC;#Antony_JC;0.308449673611272;29;I do desire no more.;But for your private satisfaction, Because I love you, I will let you know.
+#Caesar_JC;#Antony_JC;0.318638248724811;9;I do beseech you, if you bear me hard, Now, whilst your purpled hands do reek and smoke, Fulfill your pleasure.;But for your private satisfaction, Because I love you, I will let you know.
+#Caesar_JC;#Antony_JC;0.326785459842293;32;Woe to the hand that shed this costly blood!;The cause is in my will.
+#Caesar_JC;#Antony_JC;0.340201989023974;40;Hie hence and tell him so.;Let me see his face.
+#Caesar_JC;#Antony_JC;0.340311489703178;17;My credit now stands on such slippery ground That one of two bad ways you must conceit me, Either a coward or a flatterer.;I am ashamed I did yield to them.
+#Caesar_JC;#Antony_JC;0.352037428453713;20;- in the presence of thy corpse?;When they shall see The face of Caesar, they are vanished.
+#Caesar_JC;#Antony_JC;0.361794209509084;1;When Caesar says “Do this,” it is performed.;Stand you directly in Antonius' way When he doth run his course.
+#Caesar_JC;#Antony_JC;0.371017615317457;6;Are all thy conquests, glories, triumphs, spoils Shrunk to this little measure?;Have I in conquest stretched mine arm so far, To be afeard to tell graybeards the truth?
+#Casca_JC;#Antony_JC;0.0911689433063536;3;He is a noble Roman, and well given.;Bid every noise be still.
+#Casca_JC;#Antony_JC;0.116379203233152;2;Fear him not, Caesar;
+#Casca_JC;#Antony_JC;0.267380267588315;29;I do desire no more.;No, I am promised forth.
+#Casca_JC;#Antony_JC;0.285038870216938;38;Post back with speed and tell him what hath chanced.;He doth, for he did bid Antonius Send word to you he would be there tomorrow.
+#Casca_JC;#Antony_JC;0.295576495594852;23;O world, thou wast the forest to this hart, And this indeed, O world, the heart of thee.;O Cicero, I have seen tempests when the scolding winds Have rived the knotty oaks, and I have seen Th' ambitious ocean swell and rage and foam To be exalted with the threat'ning clouds
+#Casca_JC;#Antony_JC;0.301568705665271;20;- in the presence of thy corpse?;Either there is a civil strife in heaven, Or else the world, too saucy with the gods, Incenses them to send destruction.
+#Casca_JC;#Antony_JC;0.303656251416731;9;I do beseech you, if you bear me hard, Now, whilst your purpled hands do reek and smoke, Fulfill your pleasure.;And for mine own part, I durst not laugh for fear of opening my lips and receiving the bad air.
+#Casca_JC;#Antony_JC;0.307245888801125;17;My credit now stands on such slippery ground That one of two bad ways you must conceit me, Either a coward or a flatterer.;You shall confess that you are both deceived.
+#Casca_JC;#Antony_JC;0.315387988312873;37;Passion, I see, is catching, for mine eyes, Seeing those beads of sorrow stand in thine, Began to water.;O Cicero, I have seen tempests when the scolding winds Have rived the knotty oaks, and I have seen Th' ambitious ocean swell and rage and foam To be exalted with the threat'ning clouds
+#Casca_JC;#Antony_JC;0.322384502865408;7;-  I know not, gentlemen, what you intend, Who else must be let blood, who else is rank.;An I had been a man of any occupation, if I would not have taken him at a word, I would I might go to hell among the rogues.
+#Portia_JC;#Antony_JC;0.222673147324131;38;Post back with speed and tell him what hath chanced.;Come to me again And bring me word what he doth say to thee.
+#Portia_JC;#Antony_JC;0.265705333411877;40;Hie hence and tell him so.;Dear my lord, Make me acquainted with your cause of grief.
+#Portia_JC;#Antony_JC;0.280392022028768;17;My credit now stands on such slippery ground That one of two bad ways you must conceit me, Either a coward or a flatterer.;No, my Brutus, You have some sick offense within your mind, Which by the right and virtue of my place I ought to know of.
+#Portia_JC;#Antony_JC;0.288363073427391;11;I doubt not of your wisdom.;Within the bond of marriage, tell me, Brutus, Is it excepted I should know no secrets That appertain to you?
+#Portia_JC;#Antony_JC;0.303852115743054;12;Let each man render me his bloody hand.;I should not need, if you were gentle Brutus.
+#Portia_JC;#Antony_JC;0.31235209070362;29;I do desire no more.;Dwell I but in the suburbs Of your good pleasure?
+#Portia_JC;#Antony_JC;0.312537414296137;6;Are all thy conquests, glories, triumphs, spoils Shrunk to this little measure?;O Brutus, The heavens speed thee in thine enterprise!
+#Portia_JC;#Antony_JC;0.319433923522832;32;Woe to the hand that shed this costly blood!;I have made strong proof of my constancy, Giving myself a voluntary wound Here, in the thigh.
+#Portia_JC;#Antony_JC;0.347372930134824;9;I do beseech you, if you bear me hard, Now, whilst your purpled hands do reek and smoke, Fulfill your pleasure.;Yet I insisted
+#Portia_JC;#Antony_JC;0.369849924467836;24;How like a deer strucken by many princes Dost thou here lie!;And upon my knees I charm you, by my once commended beauty, By all your vows of love, and that great vow Which did incorporate and make us one, That you unfold to me, your self, your half, Why you are heavy, and what men tonight Have had resort to you

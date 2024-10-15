@@ -1,0 +1,81 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Goneril_Lr;#Lear_Lr;0.0369489661788708;30;The bow is bent and drawn.;Sir, I love you more than word can wield the matter, Dearer than eyesight, space, and liberty, Beyond what can be valued, rich or rare, No less than life, with grace, health, beauty, honor
+#Goneril_Lr;#Lear_Lr;0.149368814681959;20;Come not between the dragon and his wrath.;Sir, I love you more than word can wield the matter, Dearer than eyesight, space, and liberty, Beyond what can be valued, rich or rare, No less than life, with grace, health, beauty, honor
+#Goneril_Lr;#Lear_Lr;0.152685110297311;34;If on the tenth day following Thy banished trunk be found in our dominions, The moment is thy death.;Sir, I love you more than word can wield the matter, Dearer than eyesight, space, and liberty, Beyond what can be valued, rich or rare, No less than life, with grace, health, beauty, honor
+#Goneril_Lr;#Lear_Lr;0.154861619904152;24;Cornwall and Albany, With my two daughters ' dowers digest the third.;Beyond all manner of so much I love you.
+#Goneril_Lr;#Lear_Lr;0.158575608526227;10;To thine and Albany 's issue Be this perpetual.;Sir, I love you more than word can wield the matter, Dearer than eyesight, space, and liberty, Beyond what can be valued, rich or rare, No less than life, with grace, health, beauty, honor
+#Goneril_Lr;#Lear_Lr;0.16376084125424;81;What makes that frontlet on?;The fault of it I 'll answer.
+#Goneril_Lr;#Lear_Lr;0.170083608780288;267;What is the cause of thunder?;What grows of it, no matter.
+#Goneril_Lr;#Lear_Lr;0.180648772244695;14;Nothing will come of nothing.;Beyond all manner of so much I love you.
+#Goneril_Lr;#Lear_Lr;0.183249720352868;31;Kent, on thy life, no more.;Sir, I love you more than word can wield the matter, Dearer than eyesight, space, and liberty, Beyond what can be valued, rich or rare, No less than life, with grace, health, beauty, honor
+#Goneril_Lr;#Lear_Lr;0.188783468067954;40;Will you, with those infirmities she owes, Unfriended, new-adopted to our hate, Dowered with our curse and strangered with our oath, Take her or leave her?;Beyond all manner of so much I love you.
+#Kent_Lr;#Lear_Lr;0.163476498952274;30;The bow is bent and drawn.;Royal Lear, Whom I have ever honored as my king, Loved as my father, as my master followed, As my great patron thought on in my prayers -
+#Kent_Lr;#Lear_Lr;0.172844225830806;116;Because they are not eight.;Answer my life my judgment, Thy youngest daughter does not love thee least, Nor are those empty-hearted whose low sounds Reverb no hollowness.
+#Kent_Lr;#Lear_Lr;0.174054175824123;2;Meantime we shall express our darker purpose.;Is not this your son, my lord?
+#Kent_Lr;#Lear_Lr;0.179830358946957;58;I think the world 's asleep.;See better, Lear, and let me still remain The true blank of thine eye.
+#Kent_Lr;#Lear_Lr;0.18410777223432;26;I do invest you jointly with my power, Preeminence, and all the large effects That troop with majesty.;Is not this your son, my lord?
+#Kent_Lr;#Lear_Lr;0.18422643286568;3;-  Give me the map there.;I cannot wish the fault undone, the issue of it being so proper.
+#Kent_Lr;#Lear_Lr;0.193655167022697;81;What makes that frontlet on?;Reserve thy state, And in thy best consideration check This hideous rashness.
+#Kent_Lr;#Lear_Lr;0.196431993137687;9;Of all these bounds, even from this line to this, With shadowy forests and with champains riched, With plenteous rivers and wide-skirted meads, We make thee lady.;Is not this your son, my lord?
+#Kent_Lr;#Lear_Lr;0.213192745338289;13;- Now, our joy, Although our last and least, to whose young love The vines of France and milk of Burgundy Strive to be interessed, what can you say to draw A third more opulent than your sisters '?;I must love you and sue to know you better.
+#Kent_Lr;#Lear_Lr;0.218512875102613;76;Nothing can be made out of nothing.;Answer my life my judgment, Thy youngest daughter does not love thee least, Nor are those empty-hearted whose low sounds Reverb no hollowness.
+#Cordelia_Lr;#Lear_Lr;0.103719223546991;267;What is the cause of thunder?;The jewels of our father, with washed eyes Cordelia leaves you.
+#Cordelia_Lr;#Lear_Lr;0.122515633029441;30;The bow is bent and drawn.;Unhappy that I am, I cannot heave My heart into my mouth.
+#Cordelia_Lr;#Lear_Lr;0.128505840253982;14;Nothing will come of nothing.;And yet not so, since I am sure my love 's More ponderous than my tongue.
+#Cordelia_Lr;#Lear_Lr;0.132513543759274;81;What makes that frontlet on?;The jewels of our father, with washed eyes Cordelia leaves you.
+#Cordelia_Lr;#Lear_Lr;0.153810064332546;126;They could not, would not do  't.;Why have my sisters husbands if they say They love you all?
+#Cordelia_Lr;#Lear_Lr;0.166913594362779;139;"Are they ""informed"" of this?";Why have my sisters husbands if they say They love you all?
+#Cordelia_Lr;#Lear_Lr;0.168682734710064;288;Make no noise, make no noise.;Unhappy that I am, I cannot heave My heart into my mouth.
+#Cordelia_Lr;#Lear_Lr;0.170000935276756;333;The usurer hangs the cozener.;Time shall unfold what plighted cunning hides, Who covers faults at last with shame derides.
+#Cordelia_Lr;#Lear_Lr;0.170935642370427;230;- Where is this straw, my fellow?;So young, my lord, and true.
+#Cordelia_Lr;#Lear_Lr;0.179407988736117;132;They have traveled all the night?;So young, my lord, and true.
+#Edmund_Lr;#Lear_Lr;0.0682498214424674;30;The bow is bent and drawn.;Sir, I shall study deserving.
+#Edmund_Lr;#Lear_Lr;0.157627231130923;10;To thine and Albany 's issue Be this perpetual.;Sir, I shall study deserving.
+#Edmund_Lr;#Lear_Lr;0.166454961038435;287;You will say they are Persian, but let them be changed.;I beseech you, sir, pardon me.
+#Edmund_Lr;#Lear_Lr;0.175103605965294;17;So young and so untender?;My services to your Lordship.
+#Edmund_Lr;#Lear_Lr;0.194490583226394;8;Goneril, Our eldest born, speak first.;Sir, I shall study deserving.
+#Edmund_Lr;#Lear_Lr;0.195523981531118;333;The usurer hangs the cozener.;I found it thrown in at the casement of my closet.
+#Edmund_Lr;#Lear_Lr;0.199196867757967;16;But goes thy heart with this?;My services to your Lordship.
+#Edmund_Lr;#Lear_Lr;0.201445111406945;20;Come not between the dragon and his wrath.;My services to your Lordship.
+#Edmund_Lr;#Lear_Lr;0.206402570028717;14;Nothing will come of nothing.;Sir, I shall study deserving.
+#Edmund_Lr;#Lear_Lr;0.213220164458209;25;Let pride, which she calls plainness, marry her.;Sir, I shall study deserving.
+#Gloucester_Lr;#Lear_Lr;0.147041478699162;30;The bow is bent and drawn.;- Do you know this noble gentleman, Edmund?
+#Gloucester_Lr;#Lear_Lr;0.198808349385863;3;-  Give me the map there.;- Do you know this noble gentleman, Edmund?
+#Gloucester_Lr;#Lear_Lr;0.203783107030456;287;You will say they are Persian, but let them be changed.;And of my land, Loyal and natural boy, I 'll work the means To make thee capable.
+#Gloucester_Lr;#Lear_Lr;0.205733885803805;116;Because they are not eight.;He hath been out nine years, and away he shall again.
+#Gloucester_Lr;#Lear_Lr;0.206149192412458;10;To thine and Albany 's issue Be this perpetual.;He hath been out nine years, and away he shall again.
+#Gloucester_Lr;#Lear_Lr;0.222242091657759;14;Nothing will come of nothing.;He hath been out nine years, and away he shall again.
+#Gloucester_Lr;#Lear_Lr;0.231862565404241;125;They durst not do  't.;These late eclipses in the sun and moon portend no good to us.
+#Gloucester_Lr;#Lear_Lr;0.249355748887154;81;What makes that frontlet on?;What needed then that terrible dispatch of it into your pocket?
+#Gloucester_Lr;#Lear_Lr;0.255660989099868;264;Ha, here 's three on  's are sophisticated.;Come to me, that of this I may speak more.
+#Gloucester_Lr;#Lear_Lr;0.260505506630237;239;Is it not as this mouth should tear this hand For lifting food to  't?;He did bewray his practice, and received This hurt you see striving to apprehend him.
+#Edgar_Lr;#Lear_Lr;0.0665497527365055;81;What makes that frontlet on?;Do you busy yourself with that?
+#Edgar_Lr;#Lear_Lr;0.14729413540534;116;Because they are not eight.;Some villain hath done me wrong.
+#Edgar_Lr;#Lear_Lr;0.152885671071952;100;Dry up in her the organs of increase, And from her derogate body never spring A babe to honor her.;Shall I hear from you anon?
+#Edgar_Lr;#Lear_Lr;0.161876549279829;239;Is it not as this mouth should tear this hand For lifting food to  't?;The country gives me proof and precedent Of Bedlam beggars who with roaring voices Strike in their numbed and mortifièd arms Pins, wooden pricks, nails, sprigs of rosemary, And, with this horrible object, from low farms, Poor pelting villages, sheepcotes, and mills, Sometime with lunatic bans, sometime with prayers, Enforce their charity.
+#Edgar_Lr;#Lear_Lr;0.168336531067209;109;I have another daughter Who, I am sure, is kind and comfortable.;How now, brother Edmund, what serious contemplation are you in?
+#Edgar_Lr;#Lear_Lr;0.169655867502477;99;Into her womb convey sterility.;How now, brother Edmund, what serious contemplation are you in?
+#Edgar_Lr;#Lear_Lr;0.181947678275987;119;I would not be mad!;Shall I hear from you anon?
+#Edgar_Lr;#Lear_Lr;0.185841046959372;78;What two crowns shall they be?;How long have you been a sectary astronomical?
+#Edgar_Lr;#Lear_Lr;0.187434714186754;139;"Are they ""informed"" of this?";I am sure on  't, not a word.
+#Edgar_Lr;#Lear_Lr;0.193939727344404;87;I would learn that, for, by the marks of sovereignty, Knowledge, and reason, I should be false persuaded I had daughters.;How now, brother Edmund, what serious contemplation are you in?
+#Fool_Lr;#Lear_Lr;0.132740394129006;73;How now, my pretty knave, how dost thou?;Let me hire him too.
+#Fool_Lr;#Lear_Lr;0.193615352554428;75;A pestilent gall to me!;Sirrah, you were best take my coxcomb.
+#Fool_Lr;#Lear_Lr;0.207450754744867;287;You will say they are Persian, but let them be changed.;I would fain learn to lie.
+#Fool_Lr;#Lear_Lr;0.210489254991761;267;What is the cause of thunder?;That sir which serves and seeks for gain, And follows but for form, Will pack when it begins to rain And leave thee in the storm.
+#Fool_Lr;#Lear_Lr;0.218698609024665;384;I know when one is dead and when one lives.;When a wise man gives thee better counsel, give me mine again.
+#Fool_Lr;#Lear_Lr;0.250261401009199;299;Goneril with a white beard?;That thou wast born with.
+#Fool_Lr;#Lear_Lr;0.251639101736862;300;They flattered me like a dog and told me I had the white hairs in my beard ere the black ones were there.;Thou canst tell why one 's nose stands i ' th ' middle on  's face?
+#Fool_Lr;#Lear_Lr;0.252208205082716;333;The usurer hangs the cozener.;For when thou gav 'st them the rod and put 'st down thine own breeches, Prithee, nuncle, keep a schoolmaster that can teach thy Fool to lie.
+#Fool_Lr;#Lear_Lr;0.252406513859072;125;They durst not do  't.;Which they will make an obedient father.
+#Fool_Lr;#Lear_Lr;0.252917587886071;121; 'Tis strange that they should so depart from home And not send back my messenger.;Thy asses are gone about  'em.
+#Regan_Lr;#Lear_Lr;0.119315472149668;30;The bow is bent and drawn.;In my true heart I find she names my very deed of love
+#Regan_Lr;#Lear_Lr;0.153895079306896;267;What is the cause of thunder?;I pray you, father, being weak, seem so.
+#Regan_Lr;#Lear_Lr;0.170731563357446;120;How now, are the horses ready?;Prescribe not us our duty.
+#Regan_Lr;#Lear_Lr;0.178033945163467;119;I would not be mad!;I am made of that self mettle as my sister And prize me at her worth.
+#Regan_Lr;#Lear_Lr;0.182035280992102;126;They could not, would not do  't.;Prescribe not us our duty.
+#Regan_Lr;#Lear_Lr;0.191046814950268;81;What makes that frontlet on?;I am made of that self mettle as my sister And prize me at her worth.
+#Regan_Lr;#Lear_Lr;0.195755677815564;24;Cornwall and Albany, With my two daughters ' dowers digest the third.;In my true heart I find she names my very deed of love
+#Regan_Lr;#Lear_Lr;0.196894841511255;109;I have another daughter Who, I am sure, is kind and comfortable.;That 's most certain, and with you
+#Regan_Lr;#Lear_Lr;0.199471846385826;337;Arm it in rags, a pygmy 's straw does pierce it.;I dare avouch it, sir.
+#Regan_Lr;#Lear_Lr;0.200504797319539;17;So young and so untender?;I am made of that self mettle as my sister And prize me at her worth.

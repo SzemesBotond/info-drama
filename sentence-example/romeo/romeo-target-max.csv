@@ -1,0 +1,61 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Benvolio_Rom;#Romeo_Rom;0.606108381709128;6;Alas that love, whose view is muffled still, Should without eyes see pathways to his will!;Alas that love, so gentle in his view, Should be so tyrannous and rough in proof!
+#Benvolio_Rom;#Romeo_Rom;0.619245050675822;30;O, teach me how I should forget to think!;Forget to think of her.
+#Benvolio_Rom;#Romeo_Rom;0.632106162638603;198;What is the Prince's doom?;The Prince will doom thee death If thou art taken.
+#Benvolio_Rom;#Romeo_Rom;0.636432040555724;141;Thou chid'st me oft for loving Rosaline.;At this same ancient feast of Capulet's Sups the fair Rosaline whom thou so loves, With all the admirèd beauties of Verona.
+#Benvolio_Rom;#Romeo_Rom;0.651579717311273;100;Henceforth I never will be Romeo.;Romeo, my cousin Romeo, Romeo!
+#Benvolio_Rom;#Romeo_Rom;0.661605836594087;313;- Ah, dear Juliet, Why art thou yet so fair?;Why Romeo, art thou mad?
+#Benvolio_Rom;#Romeo_Rom;0.679612479456033;72;They pray: grant thou, lest faith turn to despair.;For what, I pray thee?
+#Benvolio_Rom;#Romeo_Rom;0.68921330379292;98;I take thee at thy word.;For what, I pray thee?
+#Benvolio_Rom;#Romeo_Rom;0.695277460833985;76;My life is my foe's debt.;I'll pay that doctrine or else die in debt.
+#Benvolio_Rom;#Romeo_Rom;0.73178293822875;143;I pray thee, chide me not.;For what, I pray thee?
+#Mercutio_Rom;#Romeo_Rom;0.584725067643293;100;Henceforth I never will be Romeo.;Nay, gentle Romeo, we must have you dance.
+#Mercutio_Rom;#Romeo_Rom;0.587033022260251;151;O single-soled jest, solely singular for the singleness.;Sure wit, follow me this jest now till thou hast worn out thy pump, that when the single sole of it is worn, the jest may remain, after the wearing, solely singular.
+#Mercutio_Rom;#Romeo_Rom;0.595588510923547;63;O, she doth teach the torches to burn bright!;Come, we burn daylight, ho!
+#Mercutio_Rom;#Romeo_Rom;0.595644978049323;64;It seems she hangs upon the cheek of night As a rich jewel in an Ethiop's ear -  Beauty too rich for use, for Earth too dear.;She is the fairies' midwife, and she comes In shape no bigger than an agate stone On the forefinger of an alderman, Drawn with a team of little atomi Over men's noses as they lie asleep.
+#Mercutio_Rom;#Romeo_Rom;0.606211182941725;54;Is love a tender thing?;And to sink in it should you burden love -  Too great oppression for a tender thing.
+#Mercutio_Rom;#Romeo_Rom;0.606512701234221;98;I take thee at thy word.;Appear thou in the likeness of a sigh.
+#Mercutio_Rom;#Romeo_Rom;0.612639555407245;155;And is it not, then, well served into a sweet goose?;Was I with you there for the goose?
+#Mercutio_Rom;#Romeo_Rom;0.64844507585092;141;Thou chid'st me oft for loving Rosaline.;-  I conjure thee by Rosaline's bright eyes, By her high forehead, and her scarlet lip, By her fine foot, straight leg, and quivering thigh, And the demesnes that there adjacent lie, That in thy likeness thou appear to us.
+#Mercutio_Rom;#Romeo_Rom;0.670494117289396;153;Thou wast never with me for anything when thou wast not there for the goose.;Was I with you there for the goose?
+#Mercutio_Rom;#Romeo_Rom;0.748607690930689;148;What counterfeit did I give you?;You gave us the counterfeit fairly last night.
+#Juliet_Rom;#Romeo_Rom;0.618837306445666;282;Early in the morning See thou deliver it to my lord and father.;What o'clock tomorrow Shall I send to thee?
+#Juliet_Rom;#Romeo_Rom;0.62537960192423;171;What sayst thou, my dear nurse?;And stint thou, too, I pray thee, nurse, say I.
+#Juliet_Rom;#Romeo_Rom;0.625635973360943;102;My name, dear saint, is hateful to myself Because it is an enemy to thee.;Tis but thy name that is my enemy.
+#Juliet_Rom;#Romeo_Rom;0.642128954981738;257;Hast thou no letters to me from the Friar?;Tell me not, friar, that thou hearest of this, Unless thou tell me how I may prevent it.
+#Juliet_Rom;#Romeo_Rom;0.648702948670244;71;O then, dear saint, let lips do what hands do.;Good pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this
+#Juliet_Rom;#Romeo_Rom;0.65727878347693;100;Henceforth I never will be Romeo.;O Romeo, Romeo, wherefore art thou Romeo?
+#Juliet_Rom;#Romeo_Rom;0.672890313282129;252;Dost thou not bring me letters from the Friar?;Tell me not, friar, that thou hearest of this, Unless thou tell me how I may prevent it.
+#Juliet_Rom;#Romeo_Rom;0.695816517042104;140;When and where and how We met, we wooed, and made exchange of vow I'll tell thee as we pass, but this I pray, That thou consent to marry us today.;If that thy bent of love be honorable, Thy purpose marriage, send me word tomorrow, By one that I'll procure to come to thee, Where and what time thou wilt perform the rite, And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.
+#Juliet_Rom;#Romeo_Rom;0.696212827685703;134;I'll tell thee ere thou ask it me again.;I gave thee mine before thou didst request it, And yet I would it were to give again.
+#Juliet_Rom;#Romeo_Rom;0.709051705523312;231;It was the lark, the herald of the morn, No nightingale.;It was the nightingale, and not the lark, That pierced the fearful hollow of thine ear.
+#Nurse_Rom;#Romeo_Rom;0.591108657207647;313;- Ah, dear Juliet, Why art thou yet so fair?;For Juliet's sake, for her sake, rise and stand.
+#Nurse_Rom;#Romeo_Rom;0.591265042170239;161;Nurse, commend me to thy lady and mistress.;Were not I thine only nurse, I would say thou hadst sucked wisdom from thy teat.
+#Nurse_Rom;#Romeo_Rom;0.594477059449829;260;Well, Juliet, I will lie with thee tonight.;I'll find Romeo To comfort you.
+#Nurse_Rom;#Romeo_Rom;0.604688212137739;252;Dost thou not bring me letters from the Friar?;O holy friar, O, tell me, holy friar, Where's my lady's lord?
+#Nurse_Rom;#Romeo_Rom;0.620679980702667;162;What wilt thou tell her, nurse?;I nursed her daughter that you talked withal.
+#Nurse_Rom;#Romeo_Rom;0.643546495607194;257;Hast thou no letters to me from the Friar?;O holy friar, O, tell me, holy friar, Where's my lady's lord?
+#Nurse_Rom;#Romeo_Rom;0.64401467224137;226;- O, tell me, friar, tell me, In what vile part of this anatomy Doth my name lodge?;O holy friar, O, tell me, holy friar, Where's my lady's lord?
+#Nurse_Rom;#Romeo_Rom;0.644513240513405;171;What sayst thou, my dear nurse?;Were not I thine only nurse, I would say thou hadst sucked wisdom from thy teat.
+#Nurse_Rom;#Romeo_Rom;0.659590779542422;207;Heaven is here Where Juliet lives, and every cat and dog And little mouse, every unworthy thing, Live here in heaven and may look on her, But Romeo may not.;Romeo can, Though heaven cannot.
+#Nurse_Rom;#Romeo_Rom;0.74802335508711;158;I can tell you, but young Romeo will be older when you have found him than he was when you sought him.;Gentlemen, can any of you tell me where I may find the young Romeo?
+#Capulet_Rom;#Romeo_Rom;0.549202101676242;252;Dost thou not bring me letters from the Friar?;-  What, is my daughter gone to Friar Lawrence?
+#Capulet_Rom;#Romeo_Rom;0.567567505709362;244;I doubt it not;
+#Capulet_Rom;#Romeo_Rom;0.571108038798728;168;Within this hour my man shall be with thee And bring thee cords made like a tackled stair, Which to the high topgallant of my joy Must be my convoy in the secret night.;God shall mend my soul, You'll make a mutiny among my guests, You will set cock-a-hoop, you'll be the man!
+#Capulet_Rom;#Romeo_Rom;0.582951125014823;257;Hast thou no letters to me from the Friar?;-  What, is my daughter gone to Friar Lawrence?
+#Capulet_Rom;#Romeo_Rom;0.586357845091203;313;- Ah, dear Juliet, Why art thou yet so fair?;For shame, bring Juliet forth.
+#Capulet_Rom;#Romeo_Rom;0.588800552372854;116;If my heart's dear love -;Marry, 'tis time -  Well said, my hearts.
+#Capulet_Rom;#Romeo_Rom;0.590682477052076;280;Come, cordial and not poison, go with me To Juliet's grave, for there must I use thee.;For shame, bring Juliet forth.
+#Capulet_Rom;#Romeo_Rom;0.598364543508486;93;The brightness of her cheek would shame those stars As daylight doth a lamp;
+#Capulet_Rom;#Romeo_Rom;0.614631265378516;72;They pray: grant thou, lest faith turn to despair.;It is my will, the which if thou respect, Show a fair presence and put off these frowns, An ill-beseeming semblance for a feast.
+#Capulet_Rom;#Romeo_Rom;0.679566333814413;260;Well, Juliet, I will lie with thee tonight.;For shame, bring Juliet forth.
+#LadyCapulet_Rom;#Romeo_Rom;0.562708889304263;293;I beseech thee, youth, Put not another sin upon my head By urging me to fury.;Well, well, thou hast a careful father, child, One who, to put thee from thy heaviness, Hath sorted out a sudden day of joy That thou expects not, nor I looked not for.
+#LadyCapulet_Rom;#Romeo_Rom;0.563100065794971;208;More validity, More honorable state, more courtship lives In carrion flies than Romeo.;Romeo slew Tybalt
+#LadyCapulet_Rom;#Romeo_Rom;0.566052082364401;177;Ah, Juliet, if the measure of thy joy Be heaped like mine, and that thy skill be more To blazon it, then sweeten with thy breath This neighbor air, and let rich music's tongue Unfold the imagined happiness that both Receive in either by this dear encounter.;- Tell me, daughter Juliet, How stands your disposition to be married?
+#LadyCapulet_Rom;#Romeo_Rom;0.571540809568058;140;When and where and how We met, we wooed, and made exchange of vow I'll tell thee as we pass, but this I pray, That thou consent to marry us today.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Romeo_Rom;0.583271730957778;289;Thou detestable maw, thou womb of death, Gorged with the dearest morsel of the earth, Thus I enforce thy rotten jaws to open, And in despite I'll cram thee with more food.;Well, well, thou hast a careful father, child, One who, to put thee from thy heaviness, Hath sorted out a sudden day of joy That thou expects not, nor I looked not for.
+#LadyCapulet_Rom;#Romeo_Rom;0.593377031988438;300;I think He told me Paris should have married Juliet.;- Tell me, daughter Juliet, How stands your disposition to be married?
+#LadyCapulet_Rom;#Romeo_Rom;0.609406965907434;125;Let me stand here till thou remember it.;I have remembered me, thou 's hear our counsel.
+#LadyCapulet_Rom;#Romeo_Rom;0.672129831056136;72;They pray: grant thou, lest faith turn to despair.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Romeo_Rom;0.744668959409116;143;I pray thee, chide me not.;I pray thee, hold thy peace.
+#LadyCapulet_Rom;#Romeo_Rom;0.74903241617892;98;I take thee at thy word.;I pray thee, hold thy peace.

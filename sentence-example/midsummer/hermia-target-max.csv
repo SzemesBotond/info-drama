@@ -1,0 +1,61 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Lysander_MND;#Hermia_MND;0.546131935597334;68;It seems that you scorn me.;Why should you think that I should woo in scorn?
+#Lysander_MND;#Hermia_MND;0.558762196303092;55;And hast thou killed him sleeping?;Sleep give thee all his rest!
+#Lysander_MND;#Hermia_MND;0.562860797079599;71;Lysander, whereto tends all this?;- Hermia, sleep thou there, And never mayst thou come Lysander near.
+#Lysander_MND;#Hermia_MND;0.566338166889279;32;Help me, Lysander, help me!;- Hermia, sleep thou there, And never mayst thou come Lysander near.
+#Lysander_MND;#Hermia_MND;0.575201635090589;11;My good Lysander, I swear to thee by Cupid's strongest bow, By his best arrow with the golden head, By the simplicity of Venus' doves, By that which knitteth souls and prospers loves, And by that fire which burned the Carthage queen When the false Trojan under sail was seen, By all the vows that ever men have broke (In number more than ever women spoke), In that same place thou hast appointed me, Tomorrow truly will I meet with thee.;If thou lovest me, then Steal forth thy father's house tomorrow night, And in the wood a league without the town (Where I did meet thee once with Helena To do observance to a morn of May), There will I stay for thee.
+#Lysander_MND;#Hermia_MND;0.596698383558791;20;And in the wood where often you and I Upon faint primrose beds were wont to lie, Emptying our bosoms of their counsel sweet, There my Lysander and myself shall meet And thence from Athens turn away our eyes To seek new friends and stranger companies.;There, gentle Hermia, may I marry thee
+#Lysander_MND;#Hermia_MND;0.602441852719227;74;What, can you do me greater harm than hate?;Although I hate her, I'll not harm her so.
+#Lysander_MND;#Hermia_MND;0.628919718157629;49;Ah, good Demetrius, wilt thou give him me?;As you on him, Demetrius dote on you!
+#Lysander_MND;#Hermia_MND;0.631730713072721;21;Pray thou for us, And good luck grant thee thy Demetrius.;Demetrius, I'll avouch it to his head, Made love to Nedar's daughter, Helena, And won her soul
+#Lysander_MND;#Hermia_MND;0.642221251346179;42;If thou hast slain Lysander in his sleep, Being o'er shoes in blood, plunge in the deep And kill me too.;- Hermia, sleep thou there, And never mayst thou come Lysander near.
+#Demetrius_MND;#Hermia_MND;0.497014706306065;11;My good Lysander, I swear to thee by Cupid's strongest bow, By his best arrow with the golden head, By the simplicity of Venus' doves, By that which knitteth souls and prospers loves, And by that fire which burned the Carthage queen When the false Trojan under sail was seen, By all the vows that ever men have broke (In number more than ever women spoke), In that same place thou hast appointed me, Tomorrow truly will I meet with thee.;Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.
+#Demetrius_MND;#Hermia_MND;0.503351014157102;41;Now I but chide, but I should use thee worse, For thou, I fear, hast given me cause to curse.;Let me go, Or if thou follow me, do not believe But I shall do thee mischief in the wood.
+#Demetrius_MND;#Hermia_MND;0.510740102629702;18;Before the time I did Lysander see Seemed Athens as a paradise to me.;Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.
+#Demetrius_MND;#Hermia_MND;0.5143219811427;20;And in the wood where often you and I Upon faint primrose beds were wont to lie, Emptying our bosoms of their counsel sweet, There my Lysander and myself shall meet And thence from Athens turn away our eyes To seek new friends and stranger companies.;Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.
+#Demetrius_MND;#Hermia_MND;0.519124080377621;66;You speak not as you think.;Do I speak you fair?
+#Demetrius_MND;#Hermia_MND;0.536984574434623;32;Help me, Lysander, help me!;Where is Lysander and fair Hermia?
+#Demetrius_MND;#Hermia_MND;0.541500723083484;17;Lysander and myself will fly this place.;Relent, sweet Hermia, and, Lysander, yield Thy crazed title to my certain right.
+#Demetrius_MND;#Hermia_MND;0.581236600125536;48;What's this to my Lysander?;Where is Lysander and fair Hermia?
+#Demetrius_MND;#Hermia_MND;0.64565122987497;71;Lysander, whereto tends all this?;Where is Lysander and fair Hermia?
+#Demetrius_MND;#Hermia_MND;0.680446472646683;26;Now much beshrew my manners and my pride If Hermia meant to say Lysander lied.;Where is Lysander and fair Hermia?
+#Helena_MND;#Hermia_MND;0.551731427187181;59;A privilege never to see me more.;Your virtue is my privilege.
+#Helena_MND;#Hermia_MND;0.553216342359092;93;Never so weary, never so in woe, Bedabbled with the dew and torn with briers, I can no further crawl, no further go.;O weary night, O long and tedious night, Abate thy hours!
+#Helena_MND;#Hermia_MND;0.567642347183313;71;Lysander, whereto tends all this?;-  Lysander, if you live, good sir, awake.
+#Helena_MND;#Hermia_MND;0.567983861812525;48;What's this to my Lysander?;-  Lysander, if you live, good sir, awake.
+#Helena_MND;#Hermia_MND;0.569075336334233;68;It seems that you scorn me.;When at your hands did I deserve this scorn?
+#Helena_MND;#Hermia_MND;0.577461163246588;26;Now much beshrew my manners and my pride If Hermia meant to say Lysander lied.;For, ere Demetrius looked on Hermia's eyne, He hailed down oaths that he was only mine
+#Helena_MND;#Hermia_MND;0.602108104004121;32;Help me, Lysander, help me!;-  Lysander, if you live, good sir, awake.
+#Helena_MND;#Hermia_MND;0.60298411585719;21;Pray thou for us, And good luck grant thee thy Demetrius.;Were the world mine, Demetrius being bated, The rest I'd give to be to you translated.
+#Helena_MND;#Hermia_MND;0.654045462862997;94;My legs can keep no pace with my desires.;My legs are longer though, to run away.
+#Helena_MND;#Hermia_MND;0.690230883326075;49;Ah, good Demetrius, wilt thou give him me?;Stay, though thou kill me, sweet Demetrius.
+#Bottom_MND;#Hermia_MND;0.416590352587587;51;Hast thou slain him, then?;Stay thou but here awhile, And by and by I will to thee appear.
+#Bottom_MND;#Hermia_MND;0.417347521987413;73;What change is this, Sweet love?;A lover is more condoling.
+#Bottom_MND;#Hermia_MND;0.423977789193852;28;Such separation, as may well be said, Becomes a virtuous bachelor and a maid.;A lover is more condoling.
+#Bottom_MND;#Hermia_MND;0.454703463798005;41;Now I but chide, but I should use thee worse, For thou, I fear, hast given me cause to curse.;Stay thou but here awhile, And by and by I will to thee appear.
+#Bottom_MND;#Hermia_MND;0.461498013569923;27;But, gentle friend, for love and courtesy, Lie further off in human modesty.;A lover is more condoling.
+#Bottom_MND;#Hermia_MND;0.466375919913302;50;Thou driv'st me past the bounds Of maiden's patience.;Stay thou but here awhile, And by and by I will to thee appear.
+#Bottom_MND;#Hermia_MND;0.472835191539304;76;I am as fair now as I was erewhile.;If I were fair, fair Thisbe, I were only thine.
+#Bottom_MND;#Hermia_MND;0.487928099615855;49;Ah, good Demetrius, wilt thou give him me?;Stay thou but here awhile, And by and by I will to thee appear.
+#Bottom_MND;#Hermia_MND;0.503176512840215;79;-  In earnest, shall I say?;Well, I will undertake it.
+#Bottom_MND;#Hermia_MND;0.508650737155217;63;Thou art not by mine eye, Lysander, found;
+#RobinGoodfellow_MND;#Hermia_MND;0.397030098804795;65;What love could press Lysander from my side?;My mistress with a monster is in love.
+#RobinGoodfellow_MND;#Hermia_MND;0.399289736454932;44;Would he have stolen away From sleeping Hermia?;I took him sleeping - that is finished, too -  And the Athenian woman by his side, That, when he waked, of force she must be eyed.
+#RobinGoodfellow_MND;#Hermia_MND;0.399790596020083;70;Sweet, do not scorn her so.;Pretty soul, she durst not lie Near this lack-love, this kill-courtesy.
+#RobinGoodfellow_MND;#Hermia_MND;0.418609854261666;63;Thou art not by mine eye, Lysander, found;
+#RobinGoodfellow_MND;#Hermia_MND;0.441433773758838;36;Methought a serpent ate my heart away, And you sat smiling at his cruel prey.;I jest to Oberon and make him smile When I a fat and bean-fed horse beguile, Neighing in likeness of a filly foal.
+#RobinGoodfellow_MND;#Hermia_MND;0.441868002371062;95;Here will I rest me till the break of day.;So, awake when I am gone, For I must now to Oberon.
+#RobinGoodfellow_MND;#Hermia_MND;0.477328455793293;93;Never so weary, never so in woe, Bedabbled with the dew and torn with briers, I can no further crawl, no further go.;I'll lead you about a round, Through bog, through bush, through brake, through brier.
+#RobinGoodfellow_MND;#Hermia_MND;0.499683779050397;55;And hast thou killed him sleeping?;I took him sleeping - that is finished, too -  And the Athenian woman by his side, That, when he waked, of force she must be eyed.
+#RobinGoodfellow_MND;#Hermia_MND;0.500729844265839;54;Durst thou have looked upon him, being awake?;I took him sleeping - that is finished, too -  And the Athenian woman by his side, That, when he waked, of force she must be eyed.
+#RobinGoodfellow_MND;#Hermia_MND;0.515176405003665;42;If thou hast slain Lysander in his sleep, Being o'er shoes in blood, plunge in the deep And kill me too.;I took him sleeping - that is finished, too -  And the Athenian woman by his side, That, when he waked, of force she must be eyed.
+#Titania_MND;#Hermia_MND;0.448283427910554;49;Ah, good Demetrius, wilt thou give him me?;I pray thee, gentle mortal, sing again.
+#Titania_MND;#Hermia_MND;0.451598589684524;50;Thou driv'st me past the bounds Of maiden's patience.;Thou art as wise as thou art beautiful.
+#Titania_MND;#Hermia_MND;0.454353988600815;45;I'll believe as soon This whole Earth may be bored, and that the moon May through the center creep and so displease Her brother's noontide with th' Antipodes.;Therefore the moon, the governess of floods, Pale in her anger, washes all the air, That rheumatic diseases do abound.
+#Titania_MND;#Hermia_MND;0.468652227304373;42;If thou hast slain Lysander in his sleep, Being o'er shoes in blood, plunge in the deep And kill me too.;And I will purge thy mortal grossness so That thou shalt like an airy spirit go.
+#Titania_MND;#Hermia_MND;0.475917562630708;51;Hast thou slain him, then?;Thou shalt remain here whether thou wilt or no.
+#Titania_MND;#Hermia_MND;0.478533328139625;23;Find you out a bed, For I upon this bank will rest my head.;I have forsworn his bed and company.
+#Titania_MND;#Hermia_MND;0.49876640200565;41;Now I but chide, but I should use thee worse, For thou, I fear, hast given me cause to curse.;We shall chide downright if I longer stay.
+#Titania_MND;#Hermia_MND;0.51837151945692;95;Here will I rest me till the break of day.;Then to your offices and let me rest.
+#Titania_MND;#Hermia_MND;0.53073122759624;58;I pray thee, tell me then that he is well.;I pray thee, gentle mortal, sing again.
+#Titania_MND;#Hermia_MND;0.677042560173847;63;Thou art not by mine eye, Lysander, found;

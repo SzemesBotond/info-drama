@@ -1,0 +1,51 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Cassius_JC;#Caesar_JC;0.618783205452768;31;And Caesar shall go forth.;And why should Caesar be a tyrant, then?
+#Cassius_JC;#Caesar_JC;0.622528790496144;15;Such men as he be never at heart's ease Whiles they behold a greater than themselves, And therefore are they very dangerous.;Men at some time are masters of their fates.
+#Cassius_JC;#Caesar_JC;0.63645979946864;52;- Caius Ligarius, Caesar was ne'er so much your enemy As that same ague which hath made you lean.;And this man Is now become a god, and Cassius is A wretched creature and must bend his body If Caesar carelessly but nod on him.
+#Cassius_JC;#Caesar_JC;0.63646556178504;24;Yet Caesar shall go forth, for these predictions Are to the world in general as to Caesar.;But it is doubtful yet Whether Caesar will come forth today or no, For he is superstitious grown of late, Quite from the main opinion he held once Of fantasy, of dreams, and ceremonies.
+#Cassius_JC;#Caesar_JC;0.641803621385941;62;What is now amiss That Caesar and his Senate must redress?;And why should Caesar be a tyrant, then?
+#Cassius_JC;#Caesar_JC;0.64398794553313;28;Caesar should be a beast without a heart If he should stay at home today for fear.;Yet I fear him, For in the engrafted love he bears to Caesar -
+#Cassius_JC;#Caesar_JC;0.672233904350846;37;Shall Caesar send a lie?;And why should Caesar be a tyrant, then?
+#Cassius_JC;#Caesar_JC;0.688482849981554;68;Know: Caesar doth not wrong, nor without cause Will he be satisfied.;And why should Caesar be a tyrant, then?
+#Cassius_JC;#Caesar_JC;0.722187147038962;33;Here's Decius Brutus;
+#Cassius_JC;#Caesar_JC;0.731550803137728;51;-  What, Brutus, are you stirred so early too?;Brutus, I do observe you now of late.
+#Brutus_JC;#Caesar_JC;0.61605294771864;52;- Caius Ligarius, Caesar was ne'er so much your enemy As that same ague which hath made you lean.;Our course will seem too bloody, Caius Cassius, To cut the head off and then hack the limbs, Like wrath in death and envy afterwards
+#Brutus_JC;#Caesar_JC;0.61991140135359;31;And Caesar shall go forth.;But, alas, Caesar must bleed for it.
+#Brutus_JC;#Caesar_JC;0.621954639910675;63;I must prevent thee, Cimber.;Then, lest he may, prevent.
+#Brutus_JC;#Caesar_JC;0.622856292038745;37;Shall Caesar send a lie?;If he love Caesar, all that he can do Is to himself: take thought and die for Caesar.
+#Brutus_JC;#Caesar_JC;0.625722332482364;62;What is now amiss That Caesar and his Senate must redress?;But, alas, Caesar must bleed for it.
+#Brutus_JC;#Caesar_JC;0.651238853139267;12;Yet if my name were liable to fear, I do not know the man I should avoid So soon as that spare Cassius.;Let me not hinder, Cassius, your desires.
+#Brutus_JC;#Caesar_JC;0.685186688296182;65;Be not fond To think that Caesar bears such rebel blood That will be thawed from the true quality With that which melteth fools - I mean sweet words, Low-crookèd curtsies, and base spaniel fawning.;But, alas, Caesar must bleed for it.
+#Brutus_JC;#Caesar_JC;0.710284940569264;68;Know: Caesar doth not wrong, nor without cause Will he be satisfied.;If he love Caesar, all that he can do Is to himself: take thought and die for Caesar.
+#Brutus_JC;#Caesar_JC;0.728019942919391;16;I rather tell thee what is to be feared Than what I fear;
+#Brutus_JC;#Caesar_JC;0.781272761931236;59;The ides of March are come.;Is not tomorrow, boy, the ides of March?
+#Portia_JC;#Caesar_JC;0.520158399658841;65;Be not fond To think that Caesar bears such rebel blood That will be thawed from the true quality With that which melteth fools - I mean sweet words, Low-crookèd curtsies, and base spaniel fawning.;Brutus hath a suit That Caesar will not grant.
+#Portia_JC;#Caesar_JC;0.528382392217064;52;- Caius Ligarius, Caesar was ne'er so much your enemy As that same ague which hath made you lean.;Brutus is wise and, were he not in health, He would embrace the means to come by it.
+#Portia_JC;#Caesar_JC;0.534085205667206;28;Caesar should be a beast without a heart If he should stay at home today for fear.;Brutus is wise and, were he not in health, He would embrace the means to come by it.
+#Portia_JC;#Caesar_JC;0.560473826803277;77;Doth not Brutus bootless kneel?;Brutus hath a suit That Caesar will not grant.
+#Portia_JC;#Caesar_JC;0.560473826803277;78;To tell thee thou shalt see me at Philippi.;Brutus hath a suit That Caesar will not grant.
+#Portia_JC;#Caesar_JC;0.560514859074472;67;If thou dost bend and pray and fawn for him, I spurn thee like a cur out of my way.;Come to me again And bring me word what he doth say to thee.
+#Portia_JC;#Caesar_JC;0.623943993188081;33;Here's Decius Brutus;
+#Portia_JC;#Caesar_JC;0.63046824784986;68;Know: Caesar doth not wrong, nor without cause Will he be satisfied.;Brutus hath a suit That Caesar will not grant.
+#Portia_JC;#Caesar_JC;0.637256667732956;51;-  What, Brutus, are you stirred so early too?;I should not need, if you were gentle Brutus.
+#Portia_JC;#Caesar_JC;0.701929215697608;62;What is now amiss That Caesar and his Senate must redress?;Is Caesar yet gone to the Capitol?
+#Casca_JC;#Caesar_JC;0.547971288266052;28;Caesar should be a beast without a heart If he should stay at home today for fear.;I know not what you mean by that, but I am sure Caesar fell down.
+#Casca_JC;#Caesar_JC;0.55068671662933;24;Yet Caesar shall go forth, for these predictions Are to the world in general as to Caesar.;I know not what you mean by that, but I am sure Caesar fell down.
+#Casca_JC;#Caesar_JC;0.569825470111916;29;Danger knows full well That Caesar is more dangerous than he.;I know not what you mean by that, but I am sure Caesar fell down.
+#Casca_JC;#Caesar_JC;0.591538766248783;33;Here's Decius Brutus;
+#Casca_JC;#Caesar_JC;0.601785817783133;39;Decius, go tell them Caesar will not come.;Tis Caesar that you mean, is it not, Cassius?
+#Casca_JC;#Caesar_JC;0.628921811737966;37;Shall Caesar send a lie?;Tis Caesar that you mean, is it not, Cassius?
+#Casca_JC;#Caesar_JC;0.642270300538253;65;Be not fond To think that Caesar bears such rebel blood That will be thawed from the true quality With that which melteth fools - I mean sweet words, Low-crookèd curtsies, and base spaniel fawning.;I know not what you mean by that, but I am sure Caesar fell down.
+#Casca_JC;#Caesar_JC;0.649555468594043;62;What is now amiss That Caesar and his Senate must redress?;Indeed, they say the Senators tomorrow Mean to establish Caesar as a king, And he shall wear his crown by sea and land In every place save here in Italy.
+#Casca_JC;#Caesar_JC;0.660492163809472;68;Know: Caesar doth not wrong, nor without cause Will he be satisfied.;Tis Caesar that you mean, is it not, Cassius?
+#Casca_JC;#Caesar_JC;0.664130434247795;52;- Caius Ligarius, Caesar was ne'er so much your enemy As that same ague which hath made you lean.;Tis Caesar that you mean, is it not, Cassius?
+#Antony_JC;#Caesar_JC;0.597572726393443;5;I hear a tongue shriller than all the music Cry “Caesar.” Speak.;When Caesar says “Do this,” it is performed.
+#Antony_JC;#Caesar_JC;0.612224878876643;62;What is now amiss That Caesar and his Senate must redress?;So to most noble Caesar.
+#Antony_JC;#Caesar_JC;0.61641714363638;37;Shall Caesar send a lie?;When Caesar says “Do this,” it is performed.
+#Antony_JC;#Caesar_JC;0.618201916290029;65;Be not fond To think that Caesar bears such rebel blood That will be thawed from the true quality With that which melteth fools - I mean sweet words, Low-crookèd curtsies, and base spaniel fawning.;So to most noble Caesar.
+#Antony_JC;#Caesar_JC;0.646699220641582;12;Yet if my name were liable to fear, I do not know the man I should avoid So soon as that spare Cassius.;Fear him not, Caesar
+#Antony_JC;#Caesar_JC;0.655355997529442;28;Caesar should be a beast without a heart If he should stay at home today for fear.;Fear him not, Caesar
+#Antony_JC;#Caesar_JC;0.673256132205727;68;Know: Caesar doth not wrong, nor without cause Will he be satisfied.;So to most noble Caesar.
+#Antony_JC;#Caesar_JC;0.699062784648134;6;Caesar is turned to hear.;When Caesar says “Do this,” it is performed.
+#Antony_JC;#Caesar_JC;0.743475702036867;16;I rather tell thee what is to be feared Than what I fear;
+#Antony_JC;#Caesar_JC;0.78766895092484;29;Danger knows full well That Caesar is more dangerous than he.;Fear him not, Caesar

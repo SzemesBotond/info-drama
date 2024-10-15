@@ -1,0 +1,51 @@
+"source,""target"",""similarity"",""setnence_num_target"",""target_sent"",""source_sent""";
+"#Antony_JC,""#Portia_JC"",0.044175594587668,15,""Am I your self But, as it were, in sort or limitation, To keep with you at meals, comfort your bed, And talk to you sometimes?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Portia_JC"",0.0771447144038674,23,""I have made strong proof of my constancy, Giving myself a voluntary wound Here, in the thigh."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Portia_JC"",0.0859115830401599,33,""Hark, boy, what noise is that?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Portia_JC"",0.0877298949002926,16,""Dwell I but in the suburbs Of your good pleasure?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Portia_JC"",0.0920738210304037,4,""Yet I insisted";" yet you answered not, But with an angry wafture of your hand Gave sign for me to leave you."",""When Caesar says ""Do this,"" it is performed."""
+"#Antony_JC,""#Portia_JC"",0.0979017969276922,9,""And is it physical To walk unbraced and suck up the humors Of the dank morning?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Portia_JC"",0.121256189221289,29,""I have a man's mind but a woman's might."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Portia_JC"",0.122614322781132,30,""How hard it is for women to keep counsel!"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Portia_JC"",0.127885520731161,6,""It will not let you eat nor talk nor sleep, And could it work so much upon your shape As it hath much prevailed on your condition, I should not know you Brutus."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Portia_JC"",0.131927926902463,20,""I grant I am a woman, but withal A woman well-reputed, Cato's daughter."",""He is a noble Roman, and well given.""";
+"#Antony_JC,""#Brutus_JC"",0.0424806737260469,101,""It is not for your health thus to commit Your weak condition to the raw cold morning."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Brutus_JC"",0.0584411988089553,19,""What you have said I will consider";" what you have to say I will with patience hear, and find a time Both meet to hear and answer such high things."",""When Caesar says ""Do this,"" it is performed."""
+"#Antony_JC,""#Brutus_JC"",0.0602144805836673,16,""What you would work me to, I have some aim."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Brutus_JC"",0.0718194220247133,111,""Would you were not sick!"",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Brutus_JC"",0.0753069940078398,73,""But if these -  As I am sure they do - bear fire enough To kindle cowards and to steel with valor The melting spirits of women, then, countrymen, What need we any spur but our own cause To prick us to redress?"",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Brutus_JC"",0.0826191768050062,67,""I have been up this hour, awake all night."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Brutus_JC"",0.0909987331074068,98,""Enjoy the honey-heavy dew of slumber."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Brutus_JC"",0.101779518367761,18,""For this present, I would not, so with love I might entreat you, Be any further moved."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Brutus_JC"",0.111829143268933,68,""Know I these men that come along with you?"",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Brutus_JC"",0.112883254474305,65,""O, then, by day Where wilt thou find a cavern dark enough To mask thy monstrous visage?"",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Cassius_JC"",0.0271196631080186,15,""Then must I think you would not have it so."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Cassius_JC"",0.0564232575301826,37,""When went there by an age, since the great flood, But it was famed with more than with one man?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Cassius_JC"",0.063887301732806,5,""You bear too stubborn and too strange a hand Over your friend that loves you."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Cassius_JC"",0.0854640662683216,18,""I cannot tell what you and other men Think of this life";" but, for my single self, I had as lief not be as live to be In awe of such a thing as I myself."",""When Caesar says ""Do this,"" it is performed."""
+"#Antony_JC,""#Cassius_JC"",0.0887421164490026,100,""Shall I entreat a word?"",""He is a noble Roman, and well given.""";
+"#Antony_JC,""#Cassius_JC"",0.0982849537631429,88,""Am I not stayed for?"",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Cassius_JC"",0.1018316650445,106,""The clock hath stricken three."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Cassius_JC"",0.103885661081013,82,""And I do know by this they stay for me In Pompey's Porch."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Cassius_JC"",0.114296097183475,60,""Those that have known the Earth so full of faults."",""He is a noble Roman, and well given.""";
+"#Antony_JC,""#Cassius_JC"",0.116316405271671,29,""You gods, it doth amaze me A man of such a feeble temper should So get the start of the majestic world And bear the palm alone."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Caesar_JC"",0.0209380563932945,9,""Let me have men about me that are fat, Sleek-headed men, and such as sleep a-nights."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Caesar_JC"",0.0838231514147904,43,""Calphurnia here, my wife, stays me at home."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Caesar_JC"",0.10393441252126,58,""Good friends, go in and taste some wine with me, And we, like friends, will straightway go together."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Caesar_JC"",0.105405341847924,38,""Have I in conquest stretched mine arm so far, To be afeard to tell graybeards the truth?"",""He is a noble Roman, and well given.""";
+"#Antony_JC,""#Caesar_JC"",0.106629163427767,72,""The skies are painted with unnumbered sparks";" They are all fire, and every one doth shine."",""So to most noble Caesar."""
+"#Antony_JC,""#Caesar_JC"",0.113538264813735,18,""Nor heaven nor Earth have been at peace tonight."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Caesar_JC"",0.115958199252102,4,""Who is it in the press that calls on me?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Caesar_JC"",0.123063539453479,69,""I could be well moved, if I were as you."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Caesar_JC"",0.12628964278551,46,""And this way have you well expounded it."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Caesar_JC"",0.136103047851065,7,""Let me see his face."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Casca_JC"",0.144381028280711,50,""Here, as I point my sword, the sun arises, Which is a great way growing on the south, Weighing the youthful season of the year."",""He is a noble Roman, and well given.""";
+"#Antony_JC,""#Casca_JC"",0.144911053292474,3,""Would you speak with me?"",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Casca_JC"",0.145642081070463,29,""Are not you moved, when all the sway of earth Shakes like a thing unfirm?"",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Casca_JC"",0.158912239587358,34,""And there were drawn Upon a heap a hundred ghastly women, Transformèd with their fear, who swore they saw Men all in fire walk up and down the streets."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Casca_JC"",0.160748215468303,36,""When these prodigies Do so conjointly meet, let not men say ""These are their reasons, they are natural,"" For I believe they are portentous things Unto the climate that they point upon."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Casca_JC"",0.173250626942451,30,""O Cicero, I have seen tempests when the scolding winds Have rived the knotty oaks, and I have seen Th' ambitious ocean swell and rage and foam To be exalted with the threat'ning clouds";" But never till tonight, never till now, Did I go through a tempest dropping fire."",""He is a noble Roman, and well given."""
+"#Antony_JC,""#Casca_JC"",0.174636592332443,35,""And yesterday the bird of night did sit Even at noonday upon the marketplace, Hooting and shrieking."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Casca_JC"",0.180900193184028,26,""There was more foolery yet, if I could remember it."",""When Caesar says ""Do this,"" it is performed.""";
+"#Antony_JC,""#Casca_JC"",0.184958848094881,20,""Three or four wenches where I stood cried ""Alas, good soul!"" and forgave him with all their hearts."",""Fear him not, Caesar";" he's not dangerous."""
+"#Antony_JC,""#Casca_JC"",0.185103182274667,22,""Nay, an I tell you that, I'll ne'er look you i' th' face again."",""When Caesar says ""Do this,"" it is performed.""";

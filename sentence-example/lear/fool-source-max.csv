@@ -1,0 +1,81 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Fool_Lr;#Regan_Lr;0.454150762978964;52;And in good time you gave it.;You gave me nothing for ’t.
+#Fool_Lr;#Regan_Lr;0.454195285702962;56;O sir, to willful men The injuries that they themselves procure Must be their schoolmasters.;For when thou gav’st them the rod and put’st down thine own breeches, Prithee, nuncle, keep a schoolmaster that can teach thy Fool to lie.
+#Fool_Lr;#Regan_Lr;0.461988932671752;76;Why should she write to Edmund?;Her boat hath a leak, And she must not speak Why she dares not come over to thee.
+#Fool_Lr;#Regan_Lr;0.46200804834396;99;General, Take thou my soldiers, prisoners, patrimony.;All thy other titles thou hast given away.
+#Fool_Lr;#Regan_Lr;0.464197717879327;29;If, sir, perchance She have restrained the riots of your followers, ’Tis on such ground and to such wholesome end As clears her from all blame.;Sirrah, I’ll teach thee a speech.
+#Fool_Lr;#Regan_Lr;0.464640029733626;53;And speak ’t again, my lord.;When a wise man gives thee better counsel, give me mine again.
+#Fool_Lr;#Regan_Lr;0.469342713758223;61;Wast thou not charged at peril —;Thou hast pared thy wit o’ both sides and left nothing i’ th’ middle.
+#Fool_Lr;#Regan_Lr;0.489256916179819;65;It was he That made the overture of thy treasons to us, Who is too good to pity thee.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Regan_Lr;0.516344848405159;64;Thou call’st on him that hates thee.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Regan_Lr;0.544340794765827;101;Witness the world that I create thee here My lord and master.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Lear_Lr;0.564945435406361;171;Thy half o’ th’ kingdom hast thou not forgot, Wherein I thee endowed.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Lear_Lr;0.569178020926894;346;I will preach to thee.;Have more than thou showest.
+#Fool_Lr;#Lear_Lr;0.570717976313068;181;— How came my man i’ th’ stocks?;Not i’ th’ stocks, fool.
+#Fool_Lr;#Lear_Lr;0.57298945211231;277;Thou robèd man of justice, take thy place, And thou, his yokefellow of equity, Bench by his side.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Lear_Lr;0.598526987044323;76;Nothing can be made out of nothing.;— Can you make no use of nothing, nuncle?
+#Fool_Lr;#Lear_Lr;0.601564814209576;172;Who put my man i’ th’ stocks?;Not i’ th’ stocks, fool.
+#Fool_Lr;#Lear_Lr;0.612073244440284;78;What two crowns shall they be?;— Nuncle, give me an egg, and I’ll give thee two crowns.
+#Fool_Lr;#Lear_Lr;0.63546970418149;232;—  Poor Fool and knave, I have one part in my heart That’s sorry yet for thee.;The knave turns fool that runs away
+#Fool_Lr;#Lear_Lr;0.642351182051819;80;An you lie, sirrah, we’ll have you whipped.;Sirrah, I’ll teach thee a speech.
+#Fool_Lr;#Lear_Lr;0.693259975103936;253;Didst thou give all to thy daughters?;Beg another of thy daughters.
+#Fool_Lr;#Edgar_Lr;0.508803495653191;17;Who gives anything to Poor Tom, whom the foul fiend hath led through fire and through flame, through ford and whirlpool, o’er bog and quagmire;
+#Fool_Lr;#Edgar_Lr;0.509288649579426;37;Poor Tom, that eats the swimming frog, the toad, the tadpole, the wall newt, and the water;
+#Fool_Lr;#Edgar_Lr;0.509946353097087;185;Haste thee for thy life.;Then, I prithee, be merry
+#Fool_Lr;#Edgar_Lr;0.515139172589779;103;Hadst thou been aught but gossamer, feathers, air, So many fathom down precipitating, Thou ’dst shivered like an egg;
+#Fool_Lr;#Edgar_Lr;0.516047443693121;58;Tom will throw his head at them.;He says his name’s Poor Tom.
+#Fool_Lr;#Edgar_Lr;0.517579050150868;110;Therefore, thou happy father, Think that the clearest gods, who make them honors Of men’s impossibilities, have preserved thee.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Edgar_Lr;0.521570786574341;129;I know thee well, a serviceable villain, As duteous to the vices of thy mistress As badness would desire.;Thou wouldst make a good Fool.
+#Fool_Lr;#Edgar_Lr;0.536579598624153;167;I am no less in blood than thou art, Edmund;
+#Fool_Lr;#Edgar_Lr;0.557911239581444;120;Give me your hand;
+#Fool_Lr;#Edgar_Lr;0.581650981734662;85;Poor Tom shall lead thee.;He says his name’s Poor Tom.
+#Fool_Lr;#Gloucester_Lr;0.502785999507474;137;If for my sake Thou wilt o’ertake us hence a mile or twain I’ th’ way toward Dover, do it for ancient love, And bring some covering for this naked soul, Which I’ll entreat to lead me.;Take the Fool with thee.
+#Fool_Lr;#Gloucester_Lr;0.509501588594552;105;Good friend, I prithee, take him in thy arms.;Then, I prithee, be merry
+#Fool_Lr;#Gloucester_Lr;0.523036918784859;46;Not in this land shall he remain uncaught, And found — dispatch.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Gloucester_Lr;0.551597061031782;48;By his authority I will proclaim it That he which finds him shall deserve our thanks, Bringing the murderous coward to the stake;
+#Fool_Lr;#Gloucester_Lr;0.552239492616149;181;Grace go with you, sir.;Marry, here’s grace and a codpiece
+#Fool_Lr;#Gloucester_Lr;0.553368778573531;151;Methinks thy voice is altered and thou speak’st In better phrase and matter than thou didst.;Speak less than thou knowest, Lend less than thou owest, Ride more than thou goest, Learn more than thou trowest, Set less than thou throwest
+#Fool_Lr;#Gloucester_Lr;0.558110028847982;90;My duty cannot suffer T’ obey in all your daughters’ hard commands.;I marvel what kin thou and thy daughters are.
+#Fool_Lr;#Gloucester_Lr;0.569621009723909;92;His daughters seek his death.;Why, this fellow has banished two on ’s daughters and did the third a blessing against his will.
+#Fool_Lr;#Gloucester_Lr;0.574245369036569;55;And of my land, Loyal and natural boy, I’ll work the means To make thee capable.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Gloucester_Lr;0.63314155242884;136;Then, prithee, get thee away.;Then, I prithee, be merry
+#Fool_Lr;#Edmund_Lr;0.493089069380317;133;Quickly send —  Be brief in it — to th’ castle, for my writ Is on the life of Lear, and on Cordelia.;Nuncle Lear, Nuncle Lear, tarry.
+#Fool_Lr;#Edmund_Lr;0.497825730297988;67;Persuade me to the murder of your Lordship, But that I told him the revenging gods ’Gainst parricides did all the thunder bend, Spoke with how manifold and strong a bond The child was bound to th’ father — sir, in fine, Seeing how loathly opposite I stood To his unnatural purpose, in fell motion With his preparèd sword he charges home My unprovided body, lanced mine arm;
+#Fool_Lr;#Edmund_Lr;0.499318732884033;121;Back do I toss these treasons to thy head, With the hell-hated lie o’erwhelm thy heart, Which, for they yet glance by and scarcely bruise, This sword of mine shall give them instant way, Where they shall rest forever.;When thou clovest thy crown i’ th’ middle and gav’st away both parts, thou bor’st thine ass on thy back o’er the dirt.
+#Fool_Lr;#Edmund_Lr;0.511872917358009;127;This speech of yours hath moved me, And shall perchance do good.;Sirrah, I’ll teach thee a speech.
+#Fool_Lr;#Edmund_Lr;0.527709521740398;105;If thou dost As this instructs thee, thou dost make thy way To noble fortunes.;That sir which serves and seeks for gain, And follows but for form, Will pack when it begins to rain And leave thee in the storm.
+#Fool_Lr;#Edmund_Lr;0.540221424806362;71;And thou must make a dullard of the world If they not thought the profits of my death Were very pregnant and potential spurs To make thee seek it.”;Thou wouldst make a good Fool.
+#Fool_Lr;#Edmund_Lr;0.548582578357309;70;What I should deny —  As this I would, though thou didst produce My very character — I’d turn it all To thy suggestion, plot, and damnèd practice.;Thou wouldst make a good Fool.
+#Fool_Lr;#Edmund_Lr;0.568536078323287;125;If thou ’rt noble, I do forgive thee.;When a wise man gives thee better counsel, give me mine again.
+#Fool_Lr;#Edmund_Lr;0.570429048359921;69;He replied “Thou unpossessing bastard, dost thou think If I would stand against thee, would the reposal Of any trust, virtue, or worth in thee Make thy words faithed?;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Edmund_Lr;0.571132888970451;119;What sayest thou to him?;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Cordelia_Lr;0.430955660908281;28;Soon may I hear and see him.;Let me hire him too.
+#Fool_Lr;#Cordelia_Lr;0.432801737635774;38;Had you not been their father, these white flakes Did challenge pity of them.;Fathers that wear rags Do make their children blind, But fathers that bear bags Shall see their children kind.
+#Fool_Lr;#Cordelia_Lr;0.436120891454038;65;Myself could else outfrown false Fortune’s frown.;Fortune, that arrant whore, Ne’er turns the key to th’ poor.
+#Fool_Lr;#Cordelia_Lr;0.447530858263604;50;Will ’t please your Highness walk?;But I will tarry
+#Fool_Lr;#Cordelia_Lr;0.461035406811867;29;O, thou good Kent, how shall I live and work To match thy goodness?;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Cordelia_Lr;0.474452115774708;19;What can man’s wisdom In the restoring his bereavèd sense?;When a wise man gives thee better counsel, give me mine again.
+#Fool_Lr;#Cordelia_Lr;0.474452115774708;53;What can man’s wisdom In the restoring his bereavèd sense?;When a wise man gives thee better counsel, give me mine again.
+#Fool_Lr;#Cordelia_Lr;0.487469980542657;64;For thee, oppressèd king, I am cast down.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Cordelia_Lr;0.510773231003662;43;And wast thou fain, poor father, To hovel thee with swine and rogues forlorn In short and musty straw?;That thou wast born with.
+#Fool_Lr;#Cordelia_Lr;0.535626334750904;66;Shall we not see these daughters and these sisters?;I marvel what kin thou and thy daughters are.
+#Fool_Lr;#Kent_Lr;0.517569056096341;108;Here is the place, my lord.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Kent_Lr;0.517868161232559;169;I have a journey, sir, shortly to go;
+#Fool_Lr;#Kent_Lr;0.529426711259172;39;Is it two days ago since I tripped up thy heels and beat thee before the King?;If thou wert my Fool, nuncle, I’d have thee beaten for being old before thy time.
+#Fool_Lr;#Kent_Lr;0.529730278683706;34;This is not altogether fool, my lord.;He will not believe a Fool.
+#Fool_Lr;#Kent_Lr;0.547700897340677;79;Hail to thee, noble master.;That lord that counseled thee To give away thy land, Come place him here by me
+#Fool_Lr;#Kent_Lr;0.548311710957715;164;Your eldest daughters have fordone themselves, And desperately are dead.;Beg another of thy daughters.
+#Fool_Lr;#Kent_Lr;0.549806116224242;78;Smile once more;
+#Fool_Lr;#Kent_Lr;0.582707026295257;131;Thou must not stay behind.;If thou follow him, thou must needs wear my coxcomb.
+#Fool_Lr;#Kent_Lr;0.605539006959085;114;He hath no daughters, sir.;Beg another of thy daughters.
+#Fool_Lr;#Kent_Lr;0.627419996500346;121;Sirrah, come on: go along with us.;Sirrah, I’ll teach thee a speech.
+#Fool_Lr;#Goneril_Lr;0.471745393109749;38;Here do you keep a hundred knights and squires, Men so disordered, so debauched and bold, That this our court, infected with their manners, Shows like a riotous inn.;Fools had ne’er less grace in a year, For wise men are grown foppish And know not how their wits to wear, Their manners are so apish.
+#Fool_Lr;#Goneril_Lr;0.478640876052621;94;Thou art not vanquished, But cozened and beguiled.;Speak less than thou knowest, Lend less than thou owest, Ride more than thou goest, Learn more than thou trowest, Set less than thou throwest
+#Fool_Lr;#Goneril_Lr;0.482890435355436;49;Let me still take away the harms I fear, Not fear still to be taken.;No, faith, lords and great men will not let me.
+#Fool_Lr;#Goneril_Lr;0.484122084301481;37;As you are old and reverend, should be wise.;No, faith, lords and great men will not let me.
+#Fool_Lr;#Goneril_Lr;0.490947285848525;78;To thee a woman’s services are due;
+#Fool_Lr;#Goneril_Lr;0.496698506490667;76;Conceive, and fare thee well.;That thou wast born with.
+#Fool_Lr;#Goneril_Lr;0.500439654791024;93;By th’ law of war, thou wast not bound to answer An unknown opposite.;Thou hast pared thy wit o’ both sides and left nothing i’ th’ middle.
+#Fool_Lr;#Goneril_Lr;0.527413888097492;44;—  You, sir, more knave than Fool, after your master.;I had rather be any kind o’ thing than a Fool.
+#Fool_Lr;#Goneril_Lr;0.52937517435249;56;No, no, my lord, This milky gentleness and course of yours, Though I condemn not, yet, under pardon, You are much more at task for want of wisdom Than praised for harmful mildness.;No, faith, lords and great men will not let me.
+#Fool_Lr;#Goneril_Lr;0.57830544802712;63;My lord, entreat him by no means to stay.;That lord that counseled thee To give away thy land, Come place him here by me

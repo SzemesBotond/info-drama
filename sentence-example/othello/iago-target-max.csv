@@ -1,0 +1,51 @@
+"source,""target"",""similarity"",""setnence_num_target"",""target_sent"",""source_sent""";
+"#Cassio_Oth,""#Iago_Oth"",0.585363503507555,170,""Which thing to do, If this poor trash of Venice, whom I trace For his quick hunting, stand the putting on, I'll have our Michael Cassio on the hip, Abuse him to the Moor in the rank garb (For I fear Cassio with my nightcap too), Make the Moor thank me, love me, and reward me For making him egregiously an ass And practicing upon his peace and quiet Even to madness."",""Great Jove, Othello guard, And swell his sail with thine own powerful breath, That he may bless this bay with his tall ship, Make love's quick pants in Desdemona's arms, Give renewed fire to our extincted spirits, And bring all Cyprus comfort!""";
+"#Cassio_Oth,""#Iago_Oth"",0.586015197388498,322,""I humbly do beseech you of your pardon For too much loving you."",""I pray you pardon me";" I cannot speak."""
+"#Cassio_Oth,""#Iago_Oth"",0.58941800820939,543,""Kind gentlemen, let's go see poor Cassio dressed."",""Bounteous madam, Whatever shall become of Michael Cassio, He's never anything but your true servant.""";
+"#Cassio_Oth,""#Iago_Oth"",0.592207396203461,339,""I once more take my leave."",""Madam, I'll take my leave.""";
+"#Cassio_Oth,""#Iago_Oth"",0.594105571987733,135,""First, I must tell thee this: Desdemona is directly in love with him."",""Tempests themselves, high seas, and howling winds, The guttered rocks and congregated sands (Traitors ensteeped to clog the guiltless keel), As having sense of beauty, do omit Their mortal natures, letting go safely by The divine Desdemona.""";
+"#Cassio_Oth,""#Iago_Oth"",0.623088414160719,456,""'Faith, that was not so well."",""I' faith, sweet love, I was coming to your house.""";
+"#Cassio_Oth,""#Iago_Oth"",0.646512747018173,217,""The General speaks to you."",""For mine own part - no offense to the General, nor any man of quality - I hope to be saved.""";
+"#Cassio_Oth,""#Iago_Oth"",0.678364893280466,333,""My lord, I take my leave."",""Madam, I'll take my leave.""";
+"#Cassio_Oth,""#Iago_Oth"",0.691845465918683,235,""You have lost no reputation at all, unless you repute yourself such a loser."",""O, I have lost my reputation!""";
+"#Cassio_Oth,""#Iago_Oth"",0.880234328696837,258,""I must to the watch."",""We must to the watch.""";
+"#Othello_Oth,""#Iago_Oth"",0.630674097849914,271,""Cassio hath beaten thee, And thou, by that small hurt, hast cashiered Cassio."",""- Cassio, I love thee, But nevermore be officer of mine.""";
+"#Othello_Oth,""#Iago_Oth"",0.637282185535996,436,""Go to";" say no more."",""Go to, well said, well said."""
+"#Othello_Oth,""#Iago_Oth"",0.637688036622057,514,""Here's Cassio hurt by villains."",""Cassio shall have my place.""";
+"#Othello_Oth,""#Iago_Oth"",0.644773553340355,260,""For 'tis most easy Th' inclining Desdemona to subdue In any honest suit."",""These things to hear Would Desdemona seriously incline.""";
+"#Othello_Oth,""#Iago_Oth"",0.649035663340706,464,""Do not weep, do not weep!"",""And she can weep, sir, weep.""";
+"#Othello_Oth,""#Iago_Oth"",0.656074920999125,543,""Kind gentlemen, let's go see poor Cassio dressed."",""Cassio shall have my place.""";
+"#Othello_Oth,""#Iago_Oth"",0.663763498346356,463,""What is the matter, lady?"",""What is the matter here?""";
+"#Othello_Oth,""#Iago_Oth"",0.666925505162031,370,""One of this kind is Cassio."",""Was not that Cassio parted from my wife?""";
+"#Othello_Oth,""#Iago_Oth"",0.671307511355631,73,""It cannot be that Desdemona should long continue her love to the Moor - put money in thy purse -  nor he his to her."",""-  Come, Desdemona, I have but an hour Of love, of worldly matters, and direction To spend with thee.""";
+"#Othello_Oth,""#Iago_Oth"",0.712878598101222,135,""First, I must tell thee this: Desdemona is directly in love with him."",""-  Come, Desdemona, I have but an hour Of love, of worldly matters, and direction To spend with thee.""";
+"#Desdemona_Oth,""#Iago_Oth"",0.644467660780014,502,""If Cassio do remain, He hath a daily beauty in his life That makes me ugly."",""I will not leave him now till Cassio Be called to him.""";
+"#Desdemona_Oth,""#Iago_Oth"",0.652350540841838,448,""And for Cassio, let me be his undertaker."",""I will not leave him now till Cassio Be called to him.""";
+"#Desdemona_Oth,""#Iago_Oth"",0.659230724454565,287,""Did Michael Cassio, When you wooed my lady, know of your love?"",""Michael Cassio, That came a-wooing with you, and so many a time, When I have spoke of you dispraisingly, Hath ta'en your part - to have so much to do To bring him in!""";
+"#Desdemona_Oth,""#Iago_Oth"",0.661879595803335,503,""And besides, the Moor May unfold me to him."",""That I love the Moor to live with him My downright violence and storm of fortunes May trumpet to the world.""";
+"#Desdemona_Oth,""#Iago_Oth"",0.666877904578414,456,""'Faith, that was not so well."",""I' faith, is 't true?""";
+"#Desdemona_Oth,""#Iago_Oth"",0.67483536743289,386,""I will go meet him."",""Let's meet him and receive him.""";
+"#Desdemona_Oth,""#Iago_Oth"",0.715677323669807,335,""Although 'tis fit that Cassio have his place -  For sure he fills it up with great ability -  Yet, if you please to hold him off awhile, You shall by that perceive him and his means."",""Be thou assured, good Cassio, I will do All my abilities in thy behalf.""";
+"#Desdemona_Oth,""#Iago_Oth"",0.727789000061155,463,""What is the matter, lady?"",""What is the matter, dear?""";
+"#Desdemona_Oth,""#Iago_Oth"",0.730411592421155,462,""How is 't with you?"",""- How is 't with you, my lord?""";
+"#Desdemona_Oth,""#Iago_Oth"",0.760695613400982,117,""If she be black, and thereto have a wit, She'll find a white that shall her blackness hit."",""How if she be black and witty?""";
+"#Roderigo_Oth,""#Iago_Oth"",0.571211389239263,97,""Thus do I ever make my fool my purse."",""I take it much unkindly That thou, Iago, who hast had my purse As if the strings were thine, shouldst know of this.""";
+"#Roderigo_Oth,""#Iago_Oth"",0.573553026844842,132,""Do thou meet me presently at the harbor."",""Where shall we meet i' th' morning?""";
+"#Roderigo_Oth,""#Iago_Oth"",0.59433492205533,164,""Meet me by and by at the citadel."",""Where shall we meet i' th' morning?""";
+"#Roderigo_Oth,""#Iago_Oth"",0.604912406012475,254,""She is of so free, so kind, so apt, so blessed a disposition she holds it a vice in her goodness not to do more than she is requested."",""She's full of most blessed condition.""";
+"#Roderigo_Oth,""#Iago_Oth"",0.610209617533436,493,""And you shall be satisfied."",""If not, assure yourself I will seek satisfaction of you.""";
+"#Roderigo_Oth,""#Iago_Oth"",0.619616148269156,273,""By th' Mass, 'tis morning!"",""Where shall we meet i' th' morning?""";
+"#Roderigo_Oth,""#Iago_Oth"",0.63274156894563,58,""If thou dost, I shall never love thee after."",""Thou toldst me thou didst hold him in thy hate.""";
+"#Roderigo_Oth,""#Iago_Oth"",0.640341211260228,481,""If thou the next night following enjoy not Desdemona, take me from this world with treachery and devise engines for my life."",""I will make myself known to Desdemona.""";
+"#Roderigo_Oth,""#Iago_Oth"",0.64763984867877,14,""I follow him to serve my turn upon him."",""I would not follow him, then.""";
+"#Roderigo_Oth,""#Iago_Oth"",0.754580078004753,21,""In following him, I follow but myself."",""I would not follow him, then.""";
+"#Duke_Oth,""#Iago_Oth"",0.512268537016554,180,""Come, lieutenant, I have a stoup of wine";" and here without are a brace of Cyprus gallants that would fain have a measure to the health of black Othello."",""Valiant Othello, we must straight employ you Against the general enemy Ottoman."""
+"#Duke_Oth,""#Iago_Oth"",0.520101841585797,398,""With her - on her - what you will."",""Be it as you shall privately determine, Either for her stay or going.""";
+"#Duke_Oth,""#Iago_Oth"",0.521334611491039,74,""It was a violent commencement in her, and thou shalt see an answerable sequestration  - put but money in thy purse."",""Whoe'er he be that in this foul proceeding Hath thus beguiled your daughter of herself And you of her, the bloody book of law You shall yourself read in the bitter letter, After your own sense, yea, though our proper son Stood in your action.""";
+"#Duke_Oth,""#Iago_Oth"",0.52956376578858,173,""'Tis not yet ten o' th' clock."",""At nine i' th' morning here we'll meet again.""";
+"#Duke_Oth,""#Iago_Oth"",0.535416103695521,302,""Who steals my purse steals trash."",""The robbed that smiles steals something from the thief";" He robs himself that spends a bootless grief."""
+"#Duke_Oth,""#Iago_Oth"",0.553899449458383,133,""If thou be'st valiant - as they say base men being in love have then a nobility in their natures more than is native to them - list me."",""And, noble signior, If virtue no delighted beauty lack, Your son-in-law is far more fair than black.""";
+"#Duke_Oth,""#Iago_Oth"",0.559704805363161,380,""Witness, you ever-burning lights above, You elements that clip us round about, Witness that here Iago doth give up The execution of his wit, hands, heart To wronged Othello's service!"",""Othello, leave some officer behind And he shall our commission bring to you, With such things else of quality and respect As doth import you.""";
+"#Duke_Oth,""#Iago_Oth"",0.577827127658024,111,""Nay, it is true, or else I am a Turk."",""The Turk with a most mighty preparation makes for Cyprus.""";
+"#Duke_Oth,""#Iago_Oth"",0.577924579527188,205,""I fear the trust Othello puts him in, On some odd time of his infirmity, Will shake this island."",""Othello, leave some officer behind And he shall our commission bring to you, With such things else of quality and respect As doth import you.""";
+"#Duke_Oth,""#Iago_Oth"",0.604163407497984,482,""Sir, there is especial commission come from Venice to depute Cassio in Othello's place."",""Othello, leave some officer behind And he shall our commission bring to you, With such things else of quality and respect As doth import you.""";

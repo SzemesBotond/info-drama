@@ -1,0 +1,31 @@
+source;target;similarity;setnence_num_target;target_sent;source_sent
+#Claudius_Ham;#Hamlet_Ham;0.178528599836614;54;I doubt some foul play.;Nor have we herein barred Your better wisdoms, which have freely gone With this affair along.
+#Claudius_Ham;#Hamlet_Ham;0.179267108003931;163;How chances it they travel?;How is it that the clouds still hang on you?
+#Claudius_Ham;#Hamlet_Ham;0.1888248317131;47;His beard was grizzled, no?;You told us of some suit.
+#Claudius_Ham;#Hamlet_Ham;0.194585309971678;214;God's bodykins, man, much better!;You told us of some suit.
+#Claudius_Ham;#Hamlet_Ham;0.202338434484595;165;Do they hold the same estimation they did when I was in the city?;How is it that the clouds still hang on you?
+#Gertrude_Ham;#Hamlet_Ham;0.0811653998143338;46;I would I had been there.;Good Hamlet, cast thy nighted color off, And let thine eye look like a friend on Denmark.
+#Gertrude_Ham;#Hamlet_Ham;0.125247888772836;165;Do they hold the same estimation they did when I was in the city?;If it be, Why seems it so particular with thee?
+#Gertrude_Ham;#Hamlet_Ham;0.126741263807415;163;How chances it they travel?;I pray thee, stay with us.
+#Gertrude_Ham;#Hamlet_Ham;0.133073515363502;95;Why, right, you are in the right.;If it be, Why seems it so particular with thee?
+#Gertrude_Ham;#Hamlet_Ham;0.140188920707951;117;The time is out of joint.;Good Hamlet, cast thy nighted color off, And let thine eye look like a friend on Denmark.
+#Horatio_Ham;#Hamlet_Ham;0.158598256880279;672;These foils have all a length?;I think it lacks of twelve.
+#Horatio_Ham;#Hamlet_Ham;0.184027630517729;54;I doubt some foul play.;A truant disposition, good my lord.
+#Horatio_Ham;#Hamlet_Ham;0.193671445372873;46;I would I had been there.;My lord, I came to see your father's funeral.
+#Horatio_Ham;#Hamlet_Ham;0.202489665901366;164;Their residence, both in reputation and profit, was better both ways.;Against the which a moiety competent Was gagèd by our king, which had returned To the inheritance of Fortinbras Had he been vanquisher, as, by the same comart And carriage of the article designed, His fell to Hamlet.
+#Horatio_Ham;#Hamlet_Ham;0.203914611626553;124;Conception is a blessing, but, as your daughter may conceive, friend, look to 't.;I knew your father
+#Laertes_Ham;#Hamlet_Ham;0.0618863747828066;44;Then saw you not his face?;My dread lord, Your leave and favor to return to France, From whence though willingly I came to Denmark To show my duty in your coronation, Yet now I must confess, that duty done, My thoughts and wishes bend again toward France And bow them to your gracious leave and pardon.
+#Laertes_Ham;#Hamlet_Ham;0.0623676994680429;54;I doubt some foul play.;My dread lord, Your leave and favor to return to France, From whence though willingly I came to Denmark To show my duty in your coronation, Yet now I must confess, that duty done, My thoughts and wishes bend again toward France And bow them to your gracious leave and pardon.
+#Laertes_Ham;#Hamlet_Ham;0.0819743111456021;46;I would I had been there.;My dread lord, Your leave and favor to return to France, From whence though willingly I came to Denmark To show my duty in your coronation, Yet now I must confess, that duty done, My thoughts and wishes bend again toward France And bow them to your gracious leave and pardon.
+#Laertes_Ham;#Hamlet_Ham;0.0945494944304666;15;Why, she would hang on him As if increase of appetite had grown By what it fed on.;My dread lord, Your leave and favor to return to France, From whence though willingly I came to Denmark To show my duty in your coronation, Yet now I must confess, that duty done, My thoughts and wishes bend again toward France And bow them to your gracious leave and pardon.
+#Laertes_Ham;#Hamlet_Ham;0.0963195377035135;47;His beard was grizzled, no?;My dread lord, Your leave and favor to return to France, From whence though willingly I came to Denmark To show my duty in your coronation, Yet now I must confess, that duty done, My thoughts and wishes bend again toward France And bow them to your gracious leave and pardon.
+#Ophelia_Ham;#Hamlet_Ham;0.0830723218007129;165;Do they hold the same estimation they did when I was in the city?;I shall the effect of this good lesson keep As watchman to my heart.
+#Ophelia_Ham;#Hamlet_Ham;0.095375987490706;164;Their residence, both in reputation and profit, was better both ways.;But, good my brother, Do not, as some ungracious pastors do, Show me the steep and thorny way to heaven, Whiles, like a puffed and reckless libertine, Himself the primrose path of dalliance treads And recks not his own rede.
+#Ophelia_Ham;#Hamlet_Ham;0.0971453615417594;89;At least I am sure it may be so in Denmark.;But, good my brother, Do not, as some ungracious pastors do, Show me the steep and thorny way to heaven, Whiles, like a puffed and reckless libertine, Himself the primrose path of dalliance treads And recks not his own rede.
+#Ophelia_Ham;#Hamlet_Ham;0.114411782131149;147;Is it a free visitation?;No, my good lord, but as you did command I did repel his letters and denied His access to me.
+#Ophelia_Ham;#Hamlet_Ham;0.12076140758555;163;How chances it they travel?;My lord, I do not know, But truly I do fear it.
+#Polonius_Ham;#Hamlet_Ham;0.101649062637255;44;Then saw you not his face?;Hath, my lord, wrung from me my slow leave By laborsome petition, and at last Upon his will I sealed my hard consent.
+#Polonius_Ham;#Hamlet_Ham;0.128612853283953;34;I think it was to see my mother's wedding.;Hath, my lord, wrung from me my slow leave By laborsome petition, and at last Upon his will I sealed my hard consent.
+#Polonius_Ham;#Hamlet_Ham;0.130412387138068;47;His beard was grizzled, no?;Hath, my lord, wrung from me my slow leave By laborsome petition, and at last Upon his will I sealed my hard consent.
+#Polonius_Ham;#Hamlet_Ham;0.133326929401093;10;Tis an unweeded garden That grows to seed.;Hath, my lord, wrung from me my slow leave By laborsome petition, and at last Upon his will I sealed my hard consent.
+#Polonius_Ham;#Hamlet_Ham;0.137476872053375;1;A little more than kin and less than kind.;Hath, my lord, wrung from me my slow leave By laborsome petition, and at last Upon his will I sealed my hard consent.
